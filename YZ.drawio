@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.10">
   <diagram name="Page-1" id="M10fowWCH3bdN68ZS8oP">
-    <mxGraphModel dx="2049" dy="1086" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -968,7 +968,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="q6ZdLtZTMevmo2pbfsbA-162" value="ข้อมูล" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
-          <mxGeometry x="1602" y="850" width="120" height="60" as="geometry" />
+          <mxGeometry x="1618" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q6ZdLtZTMevmo2pbfsbA-171" value="" style="shape=link;html=1;rounded=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="q6ZdLtZTMevmo2pbfsbA-153" target="q6ZdLtZTMevmo2pbfsbA-162">
           <mxGeometry relative="1" as="geometry">
@@ -994,14 +994,14 @@
         <mxCell id="q6ZdLtZTMevmo2pbfsbA-177" value="ที่สมัคร" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
           <mxGeometry x="1550" y="1310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q6ZdLtZTMevmo2pbfsbA-179" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="q6ZdLtZTMevmo2pbfsbA-176" target="q6ZdLtZTMevmo2pbfsbA-180">
+        <mxCell id="q6ZdLtZTMevmo2pbfsbA-179" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="q6ZdLtZTMevmo2pbfsbA-176" target="q6ZdLtZTMevmo2pbfsbA-180">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1667" y="1411" as="sourcePoint" />
             <mxPoint x="1827" y="1411" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="q6ZdLtZTMevmo2pbfsbA-180" value="ตำแหน่งงาน" style="ellipse;whiteSpace=wrap;html=1;align=center;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
-          <mxGeometry x="1900" y="1280" width="100" height="40" as="geometry" />
+          <mxGeometry x="1920" y="1280" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q6ZdLtZTMevmo2pbfsbA-195" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="q6ZdLtZTMevmo2pbfsbA-176" target="q6ZdLtZTMevmo2pbfsbA-177">
           <mxGeometry relative="1" as="geometry">
@@ -1020,6 +1020,15 @@
         </mxCell>
         <mxCell id="q6ZdLtZTMevmo2pbfsbA-198" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" connectable="0" vertex="1" parent="q6ZdLtZTMevmo2pbfsbA-197">
           <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q6ZdLtZTMevmo2pbfsbA-199" value="รหัสสาขา" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="1360" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q6ZdLtZTMevmo2pbfsbA-200" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="q6ZdLtZTMevmo2pbfsbA-176" target="q6ZdLtZTMevmo2pbfsbA-199">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1690" y="1430" as="sourcePoint" />
+            <mxPoint x="1850" y="1430" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
