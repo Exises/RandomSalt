@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16" pages="5">
   <diagram id="gAw1tBUkNWIr8xWbqZ4x" name="Home">
     <mxGraphModel dx="1793" dy="950" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="ER diagrams &amp; Relationship " id="M10fowWCH3bdN68ZS8oP">
-    <mxGraphModel dx="1082" dy="1013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="486" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -858,13 +858,10 @@
             <mxPoint x="2710" y="1100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rf4sDfMZKIJ3_L3GI_zZ-17" value="พิมพ์ดีด" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1746" y="900" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rf4sDfMZKIJ3_L3GI_zZ-18" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8uTD9FZD5NXwqfLO1ruH-11" target="rf4sDfMZKIJ3_L3GI_zZ-17" edge="1">
+        <mxCell id="rf4sDfMZKIJ3_L3GI_zZ-18" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8uTD9FZD5NXwqfLO1ruH-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1948" y="785" as="sourcePoint" />
-            <mxPoint x="1976" y="1010.02" as="targetPoint" />
+            <mxPoint x="1846" y="920.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LUnVmqEfSM62_wLnjxpQ-1" value="&lt;u&gt;รหัสตำแหน่ง&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
@@ -966,6 +963,9 @@
         <mxCell id="QPuMdxqK4qBeDEazQWI1-2" value="ข้อมูล" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1705" y="1035" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="zRNTgGOGZDZqM5DC8qbr-2" value="พิมพ์ดีด" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1749" y="900" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -984,55 +984,24 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RHl8SpyEOnPMYiGH1kLs" name="Page-4">
-    <mxGraphModel dx="1658" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="655" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ONCf_vAWE9Wg-uwq9pjO-1" value="mapping" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=32;" vertex="1" parent="1">
-          <mxGeometry x="15" y="8" width="150" height="50" as="geometry" />
+        <mxCell id="ONCf_vAWE9Wg-uwq9pjO-1" value="MAPPING" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="322" y="33" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="bPEK5HolHdzqxBD38AzA-1" value="ผู้สมัคร(&lt;u&gt;เลข&lt;/u&gt;,ชื่อ,นามสกุล,น้ำหนัก,ส่วนสูง,อายุ,พิมดีด,สำเนาบัตรประจำตัวประชาชน,ที่อยู่ปัจจุบันที่สามารถติดต่อได้,อีเมล" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-230" y="78" width="600" height="30" as="geometry" />
+        <mxCell id="KdSr7s0LehjgSsRgGLjM-1" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1.ผู้สมัคร(&lt;/span&gt;&lt;u style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;เลข&lt;/u&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;,ชื่อ,นามสกุล,น้ำหนัก,ส่วนสูง,อายุ,พิมดีด,&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 18px;&quot;&gt;สำเนาบัตรประจำตัวประชาชน,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 18px;&quot;&gt;ที่อยู่ปัจจุบันที่สามารถติดต่อได้,อีเมล)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;&quot;&gt;2.รอบการสมัคร(&lt;/span&gt;&lt;u style=&quot;&quot;&gt;รหัสบัตรประชาชน&lt;/u&gt;&lt;span style=&quot;&quot;&gt;,&lt;/span&gt;&lt;u style=&quot;&quot;&gt;รอบที่&lt;/u&gt;&lt;span style=&quot;&quot;&gt;,วันเปิด,วันปิด)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;&quot;&gt;3.สาขา(&lt;/span&gt;&lt;u style=&quot;&quot;&gt;รหัสสาขา&lt;/u&gt;&lt;span style=&quot;&quot;&gt;,ต่อสาขา)&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;&quot;&gt;4.ตำเเหน่ง(&lt;/span&gt;&lt;u style=&quot;&quot;&gt;รหัสตำเเหน่ง&lt;/u&gt;&lt;span style=&quot;&quot;&gt;,ชื่อตำเเหน่ง,เงินเดือน)&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;5.พนักงาน(&lt;u&gt;รหัสพนักงาน&lt;/u&gt;,รหัสบัตรประชาชน,ชื่อพนักงาน,&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;&lt;i&gt;รหัสตำแหน่ง)&lt;/i&gt;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;&quot;&gt;6.ทักษะการใช้คอมพิวเตอร์(&lt;/span&gt;&lt;u style=&quot;&quot;&gt;รหัส&lt;/u&gt;&lt;span style=&quot;&quot;&gt;,ชื่อ)&lt;/span&gt;&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;&lt;i&gt;&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;7.ข้อมูลการศึกษา(&amp;nbsp;&lt;u&gt;ระดับการศึกษา&amp;nbsp;&lt;/u&gt;,วฒุิ/สาขาที่สำเร็จ,ว/ด/ป ที่สำเร็จ,&lt;/font&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ชื่อสถาบันการศึกษา,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;เกรด,&lt;/span&gt;&lt;i style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;เลข)&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;&quot;&gt;8.ข้อมูลด้านทักษะภาษา(อ่าน,ภาษา,ฟัง,พูด,เขียน,&lt;/span&gt;&lt;i style=&quot;&quot;&gt;เลข)&lt;/i&gt;&lt;i&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;&quot;&gt;9.ใบประกาศนียบัตรวิชาชีพ(&lt;/span&gt;&lt;u style=&quot;&quot;&gt;เลขที่ใบประกาศนียบัตรวิชาชีพ&lt;/u&gt;&lt;span style=&quot;&quot;&gt;,&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ใบประกาศนียบัตรวิชาชีพ,วันหมดอายุ,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ออกโดย,ออกเมื่อวันที่,&lt;/span&gt;&lt;i style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;เลข)&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;&quot;&gt;10.ข้อมูลครอบครัว(บิดา/มารดา,จำนวนพี่น้อง,ลำดับพี่น้อง,สำเนา,&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ที่อยู่,อายุ,อาชีพ,&lt;/span&gt;&lt;i style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;เลข)&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;&quot;&gt;11.ข้อมูลประวัติการทำงาน/ฝึกงาน(&lt;/span&gt;&lt;u style=&quot;&quot;&gt;ระยะเวลาปฎิบัติงาน,&lt;/u&gt;&lt;span style=&quot;&quot;&gt;เงินเดือน,&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;เหตุผลที่ออก,ตำแหน่ง/ลักษณะงานที่ทำ,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;สถานที่ทำงาน/ฝึกงาน,&lt;/span&gt;&lt;i style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;เลข)&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;&quot;&gt;12.ข้อมูลการฝึกอบรม/พัฒนา(&lt;/span&gt;&lt;u style=&quot;&quot;&gt;รหัสหลักสูตร&lt;/u&gt;&lt;span style=&quot;&quot;&gt;,จัดโดยสถาบัน,ถึง,จาก,หลักสูตร,&lt;/span&gt;&lt;i style=&quot;&quot;&gt;เลข)&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;&quot;&gt;13.การสมัคร(&lt;/span&gt;&lt;u style=&quot;&quot;&gt;รหัสผู้สมัคร,รหัสผู้ถาม&lt;/u&gt;&lt;span style=&quot;&quot;&gt;,เงินเดือนที่ต้องการ,&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;วันที่สมัครงาน,วันที่เริ่มงานได้,&lt;/span&gt;&lt;i style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;เลข)&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;&quot;&gt;14.การรับสมัคร(จำนวน)&lt;/span&gt;&lt;i style=&quot;&quot;&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;15.ศักยาภาพด้านคอมพิวเตอร์(&lt;/span&gt;&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;Level&lt;/span&gt;&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;,&lt;u&gt;&lt;i&gt;เลข&lt;/i&gt;,&lt;i&gt;รหัส)&lt;/i&gt;&lt;/u&gt;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;&lt;u&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/u&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;16.พิมพ์ดีด(&lt;u style=&quot;&quot;&gt;พิมพ์ดีด,&amp;nbsp;&lt;i&gt;ผู้สมัคร&lt;/i&gt;&lt;/u&gt;)&lt;/font&gt;&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;&lt;u&gt;&lt;i&gt;&lt;/i&gt;&lt;/u&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="101" width="784" height="768" as="geometry" />
         </mxCell>
-        <mxCell id="2oSOzT_hEc77mTPRfY0Z-1" value="รอบการสมัคร(&lt;u&gt;รหัสบัตรประชาชน&lt;/u&gt;,&lt;u&gt;รอบที่&lt;/u&gt;,วันเปิด,วันปิด" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-230" y="108" width="280" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="jGTmskI0TdUU2BcjfsW2-1" value="สาขา(&lt;u&gt;รหัสสาขา&lt;/u&gt;,ต่อสาขา" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-230" y="138" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="fER2kwdHecJX4nWyrCne-1" value="ตำเเหน่ง(&lt;u&gt;รหัสตำเเหน่ง&lt;/u&gt;,ชื่อตำเเหน่ง,เงินเดือน" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-235" y="168" width="240" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="cAuUqzOP5ojycS307OIH-1" value="พนักงาน(&lt;u&gt;รหัสพนักงาน&lt;/u&gt;,รหัสบัตรประชาชน,ชื่อพนักงาน" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-235" y="198" width="280" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Lex3OsGQT210grCX2OmS-1" value="ทักษะการใช้คอมพิวเตอร์(&lt;u&gt;รหัส&lt;/u&gt;,ชื่อ" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;fontColor=default;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="228" width="190" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Y3X7Mh5DQYpXoypNnqvb-2" value="ข้อมูลการศึกษา( &lt;u&gt;ระดับการศึกษา &lt;/u&gt;,วฒุิ/สาขาที่สำเร็จ,ว/ด/ป ที่สำเร็จ,ชื่อสถาบันการศึกษา,เกรด,&lt;i&gt;เลข&lt;/i&gt;" style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-220" y="258" width="490" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Kii6B750Hl7ecgS2WRbo-1" value="ข้อมูลด้านทักษะภาษา(อ่าน,ภาษา,ฟัง,พูด,เขียน,&lt;i&gt;เลข&lt;/i&gt;" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-242" y="288" width="270" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_VQQazF3olhOnLBZeb8C-1" value="ใบประกาศนียบัตรวิชาชีพ(&lt;u&gt;เลขที่ใบประกาศนียบัตรวิชาชีพ&lt;/u&gt;,ใบประกาศนียบัตรวิชาชีพ,วันหมดอายุ,ออกโดย,ออกเมื่อวันที่,&lt;i&gt;เลข&lt;/i&gt;" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-245" y="318" width="610" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="jxe70zVWXXqkdY_p4ItF-1" value="ข้อมูลครอบครัว(บิดา/มารดา,จำนวนพี่น้อง,ลำดับพี่น้อง,สำเนา,ที่อยู่,อายุ,อาชีพ,&lt;i&gt;เลข&lt;/i&gt;" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-255" y="348" width="420" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7Qt77VhDcqntDfeIfUM9-1" value="ข้อมูลประวัติการทำงาน/ฝึกงาน(&lt;u&gt;ระยะเวลาปฎิบัติงาน,&lt;/u&gt;เงินเดือน,เหตุผลที่ออก,ตำแหน่ง/ลักษณะงานที่ทำ,สถานที่ทำงาน/ฝึกงาน,&lt;i&gt;เลข&lt;/i&gt;" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-265" y="380" width="650" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="kmjBqPngU_k0lOeYmmEN-1" value="ข้อมูลการฝึกอบรม/พัฒนา(&lt;u&gt;รหัสหลักสูตร&lt;/u&gt;,จัดโดยสถาบัน,ถึง,จาก,หลักสูตร,&lt;i&gt;เลข&lt;/i&gt;" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-255" y="410" width="390" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="4mGkAiTeZ0IvowleM1iw-1" value="การสมัคร(&lt;u&gt;รหัสผู้สมัคร,รหัสผู้ถาม&lt;/u&gt;,เงินเดือนที่ต้องการ,วันที่สมัครงาน,วันที่เริ่มงานได้,&lt;i&gt;เลข&lt;/i&gt;" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=default;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-255" y="440" width="440" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="EM-kywqaVvxPWOyMKo75-1" value="การรับสมัคร(จำนวน" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-255" y="480" width="120" height="30" as="geometry" />
-        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="DprQGMIpL8UpGtNdDQ8e" name="Page-5">
+    <mxGraphModel grid="0" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
