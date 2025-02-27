@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.14" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16" pages="4">
   <diagram id="gAw1tBUkNWIr8xWbqZ4x" name="Home">
     <mxGraphModel dx="1793" dy="950" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -17,15 +17,15 @@
     </mxGraphModel>
   </diagram>
   <diagram name="ER diagrams &amp; Relationship " id="M10fowWCH3bdN68ZS8oP">
-    <mxGraphModel dx="422" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1082" dy="1013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="8uTD9FZD5NXwqfLO1ruH-11" value="ข้อมูลส่วนตัว" style="whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="8uTD9FZD5NXwqfLO1ruH-11" value="ผู้สมัคร" style="whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1965" y="725" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8uTD9FZD5NXwqfLO1ruH-12" value="ชื่อ-นามสกุล" style="ellipse;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1742" y="665" width="100" height="40" as="geometry" />
+        <mxCell id="8uTD9FZD5NXwqfLO1ruH-12" value="ชื่อ" style="ellipse;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1755" y="645" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8uTD9FZD5NXwqfLO1ruH-13" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;fontColor=default;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" parent="1" source="8uTD9FZD5NXwqfLO1ruH-11" target="8uTD9FZD5NXwqfLO1ruH-12" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -69,10 +69,10 @@
             <mxPoint x="1945" y="515" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8uTD9FZD5NXwqfLO1ruH-23" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8uTD9FZD5NXwqfLO1ruH-11" target="8uTD9FZD5NXwqfLO1ruH-93" edge="1">
+        <mxCell id="8uTD9FZD5NXwqfLO1ruH-23" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8uTD9FZD5NXwqfLO1ruH-11" target="-9EpYV-dXbTU1ZP2Vzdr-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1905" y="745" as="sourcePoint" />
-            <mxPoint x="1855" y="745" as="targetPoint" />
+            <mxPoint x="2066" y="885" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8uTD9FZD5NXwqfLO1ruH-24" value="ข้อมูลครอบครัว" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;" parent="1" vertex="1">
@@ -104,18 +104,6 @@
             <mxPoint x="1478" y="1105" as="sourcePoint" />
             <mxPoint x="1528" y="1164" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="8uTD9FZD5NXwqfLO1ruH-31" value="ข้อมูลครอบครัว" style="ellipse;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1228" y="1055" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="8uTD9FZD5NXwqfLO1ruH-34" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="8uTD9FZD5NXwqfLO1ruH-24" target="8uTD9FZD5NXwqfLO1ruH-31" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1488" y="1065" as="sourcePoint" />
-            <mxPoint x="1318" y="1075" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8uTD9FZD5NXwqfLO1ruH-93" value="อีเมล์" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2065" y="865" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q6ZdLtZTMevmo2pbfsbA-29" value="ความสัมพันธ์ครอบครัว" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1375" y="745" width="120" height="100" as="geometry" />
@@ -186,7 +174,7 @@
         <mxCell id="q6ZdLtZTMevmo2pbfsbA-76" value="ตำแหน่ง/ลักษณะงานที่ทำ" style="ellipse;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="2132" y="1135.02" width="133" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="q6ZdLtZTMevmo2pbfsbA-77" value="ระยะเวลาปฎิบัติงาน" style="ellipse;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="q6ZdLtZTMevmo2pbfsbA-77" value="ระยะเวลาปฎิบัติงาน" style="ellipse;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fontStyle=4" parent="1" vertex="1">
           <mxGeometry x="1855" y="1095.02" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q6ZdLtZTMevmo2pbfsbA-78" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="q6ZdLtZTMevmo2pbfsbA-77" target="q6ZdLtZTMevmo2pbfsbA-89" edge="1">
@@ -357,41 +345,11 @@
         <mxCell id="q6ZdLtZTMevmo2pbfsbA-116" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;labelBackgroundColor=none;" parent="q6ZdLtZTMevmo2pbfsbA-115" connectable="0" vertex="1">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="q6ZdLtZTMevmo2pbfsbA-118" value="word" style="ellipse;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="q6ZdLtZTMevmo2pbfsbA-118" value="ชื่อ" style="ellipse;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="2778" y="795" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="q6ZdLtZTMevmo2pbfsbA-119" value="Excel" style="ellipse;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2808" y="725" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="q6ZdLtZTMevmo2pbfsbA-120" value="power point" style="ellipse;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2478" y="675" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="q6ZdLtZTMevmo2pbfsbA-121" value="MS.Project" style="ellipse;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2478" y="785" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="q6ZdLtZTMevmo2pbfsbA-122" value="Auto CAD" style="ellipse;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2798" y="665" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="q6ZdLtZTMevmo2pbfsbA-123" value="อื่นๆ" style="ellipse;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="q6ZdLtZTMevmo2pbfsbA-123" value="&lt;u&gt;รหัส&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="2618" y="625" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="q6ZdLtZTMevmo2pbfsbA-124" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="q6ZdLtZTMevmo2pbfsbA-121" target="JZz9gDxdqFKFhFaxDRRG-39" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2588" y="915" as="sourcePoint" />
-            <mxPoint x="2618" y="765" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="q6ZdLtZTMevmo2pbfsbA-125" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="q6ZdLtZTMevmo2pbfsbA-120" target="JZz9gDxdqFKFhFaxDRRG-39" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2658" y="895" as="sourcePoint" />
-            <mxPoint x="2618" y="725" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="q6ZdLtZTMevmo2pbfsbA-126" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="JZz9gDxdqFKFhFaxDRRG-39" target="q6ZdLtZTMevmo2pbfsbA-119" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2718" y="745" as="sourcePoint" />
-            <mxPoint x="2798" y="905" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="q6ZdLtZTMevmo2pbfsbA-127" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="JZz9gDxdqFKFhFaxDRRG-39" target="q6ZdLtZTMevmo2pbfsbA-118" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -403,12 +361,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2668" y="725" as="sourcePoint" />
             <mxPoint x="2748" y="915" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="q6ZdLtZTMevmo2pbfsbA-130" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="JZz9gDxdqFKFhFaxDRRG-39" target="q6ZdLtZTMevmo2pbfsbA-122" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2718" y="725" as="sourcePoint" />
-            <mxPoint x="2708" y="625" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="q6ZdLtZTMevmo2pbfsbA-137" value="หลักสูตร" style="ellipse;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;" parent="1" vertex="1">
@@ -480,14 +432,8 @@
         <mxCell id="q6ZdLtZTMevmo2pbfsbA-152" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;labelBackgroundColor=none;" parent="q6ZdLtZTMevmo2pbfsbA-151" connectable="0" vertex="1">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="q6ZdLtZTMevmo2pbfsbA-153" value="ผู้สมัคร" style="whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1435" y="1360" width="100" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="q6ZdLtZTMevmo2pbfsbA-154" value="วันที่สมัครงาน" style="ellipse;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1435" y="1290" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="q6ZdLtZTMevmo2pbfsbA-155" value="ตำแหน่งที่สมัครงาน" style="ellipse;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;rotation=0;" parent="1" vertex="1">
-          <mxGeometry x="1288" y="1380" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q6ZdLtZTMevmo2pbfsbA-156" value="เงินเดือนที่ต้องการ" style="ellipse;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;rotation=-1;" parent="1" vertex="1">
           <mxGeometry x="1435" y="1450" width="100" height="40" as="geometry" />
@@ -495,46 +441,37 @@
         <mxCell id="q6ZdLtZTMevmo2pbfsbA-157" value="วันที่เริ่มงานได้" style="ellipse;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="1591" y="1265" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="q6ZdLtZTMevmo2pbfsbA-158" value="" style="endArrow=none;html=1;rounded=0;fontColor=default;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;" parent="1" source="q6ZdLtZTMevmo2pbfsbA-154" target="q6ZdLtZTMevmo2pbfsbA-153" edge="1">
+        <mxCell id="q6ZdLtZTMevmo2pbfsbA-158" value="" style="endArrow=none;html=1;rounded=0;fontColor=default;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;" parent="1" source="q6ZdLtZTMevmo2pbfsbA-154" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1331" y="1290" as="sourcePoint" />
-            <mxPoint x="1491" y="1290" as="targetPoint" />
+            <mxPoint x="1435" y="1360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q6ZdLtZTMevmo2pbfsbA-159" value="" style="endArrow=none;html=1;rounded=0;fontColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=none;" parent="1" source="q6ZdLtZTMevmo2pbfsbA-153" target="q6ZdLtZTMevmo2pbfsbA-157" edge="1">
+        <mxCell id="q6ZdLtZTMevmo2pbfsbA-159" value="" style="endArrow=none;html=1;rounded=0;fontColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=none;" parent="1" target="q6ZdLtZTMevmo2pbfsbA-157" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1481" y="1250" as="sourcePoint" />
+            <mxPoint x="1535" y="1360" as="sourcePoint" />
             <mxPoint x="1641" y="1250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q6ZdLtZTMevmo2pbfsbA-160" value="" style="endArrow=none;html=1;rounded=0;fontColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;" parent="1" source="q6ZdLtZTMevmo2pbfsbA-155" target="q6ZdLtZTMevmo2pbfsbA-153" edge="1">
+        <mxCell id="q6ZdLtZTMevmo2pbfsbA-161" value="" style="endArrow=none;html=1;rounded=0;fontColor=default;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;" parent="1" target="q6ZdLtZTMevmo2pbfsbA-156" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1441" y="1250" as="sourcePoint" />
-            <mxPoint x="1601" y="1250" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="q6ZdLtZTMevmo2pbfsbA-161" value="" style="endArrow=none;html=1;rounded=0;fontColor=default;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;" parent="1" source="q6ZdLtZTMevmo2pbfsbA-153" target="q6ZdLtZTMevmo2pbfsbA-156" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1411" y="1270" as="sourcePoint" />
+            <mxPoint x="1535" y="1400" as="sourcePoint" />
             <mxPoint x="1571" y="1270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q6ZdLtZTMevmo2pbfsbA-162" value="ข้อมูล" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1706" y="1035" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="q6ZdLtZTMevmo2pbfsbA-171" value="" style="shape=link;html=1;rounded=0;fontColor=default;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;" parent="1" source="q6ZdLtZTMevmo2pbfsbA-153" target="q6ZdLtZTMevmo2pbfsbA-162" edge="1">
+        <mxCell id="q6ZdLtZTMevmo2pbfsbA-171" value="" style="shape=link;html=1;rounded=0;fontColor=default;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1598" y="1295" as="sourcePoint" />
-            <mxPoint x="1758" y="1295" as="targetPoint" />
+            <mxPoint x="1535" y="1360" as="sourcePoint" />
+            <mxPoint x="1706" y="1065.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q6ZdLtZTMevmo2pbfsbA-172" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;labelBackgroundColor=none;" parent="q6ZdLtZTMevmo2pbfsbA-171" connectable="0" vertex="1">
+        <mxCell id="q6ZdLtZTMevmo2pbfsbA-172" value="M" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;labelBackgroundColor=none;" parent="q6ZdLtZTMevmo2pbfsbA-171" connectable="0" vertex="1">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="q6ZdLtZTMevmo2pbfsbA-173" value="" style="shape=link;html=1;rounded=0;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;" parent="1" source="8uTD9FZD5NXwqfLO1ruH-11" target="q6ZdLtZTMevmo2pbfsbA-162" edge="1">
+        <mxCell id="q6ZdLtZTMevmo2pbfsbA-173" value="" style="shape=link;html=1;rounded=0;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;" parent="1" source="8uTD9FZD5NXwqfLO1ruH-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1738" y="1275" as="sourcePoint" />
-            <mxPoint x="1898" y="1275" as="targetPoint" />
+            <mxPoint x="1826" y="1065.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="q6ZdLtZTMevmo2pbfsbA-174" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;labelBackgroundColor=none;" parent="q6ZdLtZTMevmo2pbfsbA-173" connectable="0" vertex="1">
@@ -551,7 +488,7 @@
             <mxPoint x="2065" y="1656" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q6ZdLtZTMevmo2pbfsbA-180" value="ตำแหน่งงาน" style="ellipse;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="q6ZdLtZTMevmo2pbfsbA-180" value="ต่อสาขา" style="ellipse;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="2158" y="1525" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q6ZdLtZTMevmo2pbfsbA-199" value="รหัสสาขา" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;labelBackgroundColor=none;" parent="1" vertex="1">
@@ -563,7 +500,7 @@
             <mxPoint x="2088" y="1675" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a8v11ENWDGz0AbraGzzN-1" value="ประจําตัวประชาชน" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="a8v11ENWDGz0AbraGzzN-1" value="เลข" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="2121" y="480" width="122" height="70" as="geometry" />
         </mxCell>
         <mxCell id="a8v11ENWDGz0AbraGzzN-2" value="สําเนาบัตรประจําตัวประชาชน" style="ellipse;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;" parent="1" vertex="1">
@@ -617,61 +554,22 @@
             <mxPoint x="1538" y="975" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a8v11ENWDGz0AbraGzzN-44" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;labelBackgroundColor=none;" parent="a8v11ENWDGz0AbraGzzN-43" connectable="0" vertex="1">
-          <mxGeometry x="1" relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="a8v11ENWDGz0AbraGzzN-46" value="หัวหน้า" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2441" y="1464.9999999999998" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="a8v11ENWDGz0AbraGzzN-48" value="" style="endArrow=none;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="a8v11ENWDGz0AbraGzzN-8" target="a8v11ENWDGz0AbraGzzN-46" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2350" y="1554.9999999999995" as="sourcePoint" />
-            <mxPoint x="2510" y="1554.9999999999995" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="a8v11ENWDGz0AbraGzzN-49" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;labelBackgroundColor=none;" parent="a8v11ENWDGz0AbraGzzN-48" connectable="0" vertex="1">
-          <mxGeometry x="1" relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="a8v11ENWDGz0AbraGzzN-50" value="" style="endArrow=none;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="a8v11ENWDGz0AbraGzzN-8" target="a8v11ENWDGz0AbraGzzN-46" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2340" y="1444.9999999999998" as="sourcePoint" />
-            <mxPoint x="2500" y="1444.9999999999998" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="a8v11ENWDGz0AbraGzzN-51" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;labelBackgroundColor=none;" parent="a8v11ENWDGz0AbraGzzN-50" connectable="0" vertex="1">
+        <mxCell id="a8v11ENWDGz0AbraGzzN-44" value="M" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;labelBackgroundColor=none;" parent="a8v11ENWDGz0AbraGzzN-43" connectable="0" vertex="1">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a8v11ENWDGz0AbraGzzN-60" value="รอบการสมัคร" style="whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1916" y="1360" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="a8v11ENWDGz0AbraGzzN-61" value="เข้าสมัคร" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1671" y="1350" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="a8v11ENWDGz0AbraGzzN-62" value="จำนวนผู้สมัคร" style="ellipse;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="a8v11ENWDGz0AbraGzzN-62" value="วันปิด" style="ellipse;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="2063" y="1280" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="a8v11ENWDGz0AbraGzzN-63" value="ตำแหน่งที่รับสมัตร" style="ellipse;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2066" y="1360" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="a8v11ENWDGz0AbraGzzN-64" value="จำนวนที่รับสมัคร" style="ellipse;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="a8v11ENWDGz0AbraGzzN-64" value="วันเปิด" style="ellipse;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="2066" y="1440" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="a8v11ENWDGz0AbraGzzN-65" value="ได้รับความนิยม" style="ellipse;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2246" y="1320" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="a8v11ENWDGz0AbraGzzN-66" value="ไม่ได้รับความนิยม" style="ellipse;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2246" y="1410" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="a8v11ENWDGz0AbraGzzN-67" value="" style="endArrow=none;html=1;rounded=0;fontColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;" parent="1" source="a8v11ENWDGz0AbraGzzN-60" target="a8v11ENWDGz0AbraGzzN-62" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2046" y="1530" as="sourcePoint" />
             <mxPoint x="2206" y="1530" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="a8v11ENWDGz0AbraGzzN-68" value="" style="endArrow=none;html=1;rounded=0;fontColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;" parent="1" source="a8v11ENWDGz0AbraGzzN-60" target="a8v11ENWDGz0AbraGzzN-63" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2006" y="1520" as="sourcePoint" />
-            <mxPoint x="2166" y="1520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="a8v11ENWDGz0AbraGzzN-69" value="" style="endArrow=none;html=1;rounded=0;fontColor=default;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;" parent="1" source="a8v11ENWDGz0AbraGzzN-60" target="a8v11ENWDGz0AbraGzzN-64" edge="1">
@@ -680,34 +578,13 @@
             <mxPoint x="2106" y="1520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a8v11ENWDGz0AbraGzzN-70" value="" style="endArrow=none;html=1;rounded=0;fontColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;" parent="1" source="a8v11ENWDGz0AbraGzzN-63" target="a8v11ENWDGz0AbraGzzN-66" edge="1">
+        <mxCell id="a8v11ENWDGz0AbraGzzN-72" value="" style="shape=link;html=1;rounded=0;fontColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2096" y="1530" as="sourcePoint" />
-            <mxPoint x="2256" y="1530" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="a8v11ENWDGz0AbraGzzN-71" value="" style="endArrow=none;html=1;rounded=0;fontColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;" parent="1" source="a8v11ENWDGz0AbraGzzN-63" target="a8v11ENWDGz0AbraGzzN-65" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2026" y="1530" as="sourcePoint" />
-            <mxPoint x="2186" y="1530" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="a8v11ENWDGz0AbraGzzN-72" value="" style="shape=link;html=1;rounded=0;fontColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;" parent="1" source="q6ZdLtZTMevmo2pbfsbA-153" target="a8v11ENWDGz0AbraGzzN-61" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1701" y="1370" as="sourcePoint" />
-            <mxPoint x="1831" y="1430" as="targetPoint" />
+            <mxPoint x="1535" y="1380" as="sourcePoint" />
+            <mxPoint x="1671" y="1380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="a8v11ENWDGz0AbraGzzN-73" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;labelBackgroundColor=none;" parent="a8v11ENWDGz0AbraGzzN-72" connectable="0" vertex="1">
-          <mxGeometry x="1" relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="a8v11ENWDGz0AbraGzzN-76" value="" style="endArrow=none;html=1;rounded=0;fontColor=default;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;" parent="1" source="a8v11ENWDGz0AbraGzzN-60" target="a8v11ENWDGz0AbraGzzN-61" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1871" y="1460" as="sourcePoint" />
-            <mxPoint x="2031" y="1460" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="a8v11ENWDGz0AbraGzzN-77" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;labelBackgroundColor=none;" parent="a8v11ENWDGz0AbraGzzN-76" connectable="0" vertex="1">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JZz9gDxdqFKFhFaxDRRG-1" value="การรับสมัคร" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
@@ -716,7 +593,7 @@
         <mxCell id="JZz9gDxdqFKFhFaxDRRG-2" value="ตำแหน่ง" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="2171" y="1705" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JZz9gDxdqFKFhFaxDRRG-3" value="จำนวนครั้ง" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="JZz9gDxdqFKFhFaxDRRG-3" value="เปิด" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="1811" y="1490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JZz9gDxdqFKFhFaxDRRG-4" value="" style="shape=link;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JZz9gDxdqFKFhFaxDRRG-1" target="JZz9gDxdqFKFhFaxDRRG-3" edge="1">
@@ -736,15 +613,6 @@
         </mxCell>
         <mxCell id="JZz9gDxdqFKFhFaxDRRG-7" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" parent="JZz9gDxdqFKFhFaxDRRG-6" connectable="0" vertex="1">
           <mxGeometry x="1" relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JZz9gDxdqFKFhFaxDRRG-8" value="รอบที่" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1544" y="1525" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="JZz9gDxdqFKFhFaxDRRG-10" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="JZz9gDxdqFKFhFaxDRRG-8" target="JZz9gDxdqFKFhFaxDRRG-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1510" y="1625" as="sourcePoint" />
-            <mxPoint x="1670" y="1625" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="JZz9gDxdqFKFhFaxDRRG-11" value="เปิดรับ" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="1811" y="1675" width="120" height="60" as="geometry" />
@@ -767,28 +635,14 @@
         <mxCell id="JZz9gDxdqFKFhFaxDRRG-15" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" parent="JZz9gDxdqFKFhFaxDRRG-14" connectable="0" vertex="1">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JZz9gDxdqFKFhFaxDRRG-16" value="วุฒิการศึกษา" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1955" y="365" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JZz9gDxdqFKFhFaxDRRG-17" value="" style="shape=link;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="8uTD9FZD5NXwqfLO1ruH-11" target="JZz9gDxdqFKFhFaxDRRG-16" edge="1">
+        <mxCell id="JZz9gDxdqFKFhFaxDRRG-20" value="" style="shape=link;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="IsXhhxLWW2VtJqCBs4GE-4" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2017" y="510" as="sourcePoint" />
-            <mxPoint x="2177" y="510" as="targetPoint" />
+            <mxPoint x="2015" y="250" as="sourcePoint" />
+            <mxPoint x="2015" y="365" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JZz9gDxdqFKFhFaxDRRG-18" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" parent="JZz9gDxdqFKFhFaxDRRG-17" connectable="0" vertex="1">
-          <mxGeometry x="1" relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JZz9gDxdqFKFhFaxDRRG-19" value="ข้อมูลการศึกษา" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1965" y="210" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="JZz9gDxdqFKFhFaxDRRG-20" value="" style="shape=link;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JZz9gDxdqFKFhFaxDRRG-19" target="JZz9gDxdqFKFhFaxDRRG-16" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2007" y="320" as="sourcePoint" />
-            <mxPoint x="2167" y="320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JZz9gDxdqFKFhFaxDRRG-21" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" parent="JZz9gDxdqFKFhFaxDRRG-20" connectable="0" vertex="1">
+        <mxCell id="JZz9gDxdqFKFhFaxDRRG-21" value="M" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" parent="JZz9gDxdqFKFhFaxDRRG-20" connectable="0" vertex="1">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JZz9gDxdqFKFhFaxDRRG-22" value="เกรด" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
@@ -800,57 +654,45 @@
         <mxCell id="JZz9gDxdqFKFhFaxDRRG-24" value="ว/ด/ป ที่สำเร็จ" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="2107" y="130" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JZz9gDxdqFKFhFaxDRRG-25" value="ระดับการศึกษา" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="JZz9gDxdqFKFhFaxDRRG-25" value="ระดับการศึกษา" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4" parent="1" vertex="1">
           <mxGeometry x="1785" y="210" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JZz9gDxdqFKFhFaxDRRG-26" value="วฒุิ/สาขาที่สำเร็จ" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="1859" y="130" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JZz9gDxdqFKFhFaxDRRG-27" value="&lt;u&gt;รหัสประจำคัวประชาชน&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1855" y="290" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="JZz9gDxdqFKFhFaxDRRG-28" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JZz9gDxdqFKFhFaxDRRG-25" target="JZz9gDxdqFKFhFaxDRRG-19" edge="1">
+        <mxCell id="JZz9gDxdqFKFhFaxDRRG-28" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JZz9gDxdqFKFhFaxDRRG-25" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1897" y="220" as="sourcePoint" />
-            <mxPoint x="2057" y="220" as="targetPoint" />
+            <mxPoint x="1965" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JZz9gDxdqFKFhFaxDRRG-29" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.006;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="JZz9gDxdqFKFhFaxDRRG-26" target="JZz9gDxdqFKFhFaxDRRG-19" edge="1">
+        <mxCell id="JZz9gDxdqFKFhFaxDRRG-29" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.006;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="JZz9gDxdqFKFhFaxDRRG-26" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1947" y="180" as="sourcePoint" />
-            <mxPoint x="2117" y="150" as="targetPoint" />
+            <mxPoint x="1965.6" y="214" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1897" y="220" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JZz9gDxdqFKFhFaxDRRG-30" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="JZz9gDxdqFKFhFaxDRRG-27" target="JZz9gDxdqFKFhFaxDRRG-19" edge="1">
+        <mxCell id="JZz9gDxdqFKFhFaxDRRG-31" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="JZz9gDxdqFKFhFaxDRRG-23" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1867" y="260" as="sourcePoint" />
-            <mxPoint x="2027" y="260" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1897" y="240" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JZz9gDxdqFKFhFaxDRRG-31" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="JZz9gDxdqFKFhFaxDRRG-19" target="JZz9gDxdqFKFhFaxDRRG-23" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1987" y="180" as="sourcePoint" />
+            <mxPoint x="2065" y="230" as="sourcePoint" />
             <mxPoint x="2147" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JZz9gDxdqFKFhFaxDRRG-32" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="JZz9gDxdqFKFhFaxDRRG-19" target="JZz9gDxdqFKFhFaxDRRG-24" edge="1">
+        <mxCell id="JZz9gDxdqFKFhFaxDRRG-32" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" target="JZz9gDxdqFKFhFaxDRRG-24" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1987" y="170" as="sourcePoint" />
+            <mxPoint x="2065" y="210" as="sourcePoint" />
             <mxPoint x="2147" y="170" as="targetPoint" />
             <Array as="points">
               <mxPoint x="2147" y="220" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JZz9gDxdqFKFhFaxDRRG-33" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="JZz9gDxdqFKFhFaxDRRG-19" target="JZz9gDxdqFKFhFaxDRRG-22" edge="1">
+        <mxCell id="JZz9gDxdqFKFhFaxDRRG-33" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" target="JZz9gDxdqFKFhFaxDRRG-22" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2057" y="260" as="sourcePoint" />
+            <mxPoint x="2065" y="250" as="sourcePoint" />
             <mxPoint x="2217" y="260" as="targetPoint" />
             <Array as="points">
               <mxPoint x="2167" y="250" />
@@ -881,7 +723,7 @@
         <mxCell id="JZz9gDxdqFKFhFaxDRRG-48" value="M" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" parent="JZz9gDxdqFKFhFaxDRRG-47" connectable="0" vertex="1">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JZz9gDxdqFKFhFaxDRRG-49" value="รายการผู้สมัคร" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="JZz9gDxdqFKFhFaxDRRG-49" value="รอบที่" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4" parent="1" vertex="1">
           <mxGeometry x="1916" y="1265" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JZz9gDxdqFKFhFaxDRRG-50" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="a8v11ENWDGz0AbraGzzN-60" target="JZz9gDxdqFKFhFaxDRRG-49" edge="1">
@@ -890,26 +732,11 @@
             <mxPoint x="1980" y="1325" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JZz9gDxdqFKFhFaxDRRG-51" value="ส่งผ่านอีเมล" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1791" y="1265" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="JZz9gDxdqFKFhFaxDRRG-52" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="a8v11ENWDGz0AbraGzzN-61" target="JZz9gDxdqFKFhFaxDRRG-51" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1700" y="1305" as="sourcePoint" />
-            <mxPoint x="1860" y="1305" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="JZz9gDxdqFKFhFaxDRRG-53" value="รหัสบัตรประชาชน" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="2441" y="1250" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JZz9gDxdqFKFhFaxDRRG-55" value="ดี" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="2207" y="795" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="JZz9gDxdqFKFhFaxDRRG-56" value="พอใช้" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="2368" y="795" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="JZz9gDxdqFKFhFaxDRRG-57" value="ไม่ได้" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="2368" y="665" width="100" height="40" as="geometry" />
+        <mxCell id="JZz9gDxdqFKFhFaxDRRG-55" value="Level" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="2275" y="804.98" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JZz9gDxdqFKFhFaxDRRG-58" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="JZz9gDxdqFKFhFaxDRRG-55" target="JZz9gDxdqFKFhFaxDRRG-41" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -917,44 +744,23 @@
             <mxPoint x="2347" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JZz9gDxdqFKFhFaxDRRG-59" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JZz9gDxdqFKFhFaxDRRG-41" target="JZz9gDxdqFKFhFaxDRRG-56" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2377" y="770" as="sourcePoint" />
-            <mxPoint x="2537" y="770" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JZz9gDxdqFKFhFaxDRRG-60" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="JZz9gDxdqFKFhFaxDRRG-41" target="JZz9gDxdqFKFhFaxDRRG-57" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2367" y="650" as="sourcePoint" />
-            <mxPoint x="2527" y="650" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JZz9gDxdqFKFhFaxDRRG-61" value="ใบสมัคร" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="JZz9gDxdqFKFhFaxDRRG-61" value="รหัสผู้สมัคร" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4" parent="1" vertex="1">
           <mxGeometry x="1278" y="1305" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JZz9gDxdqFKFhFaxDRRG-63" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="JZz9gDxdqFKFhFaxDRRG-61" target="q6ZdLtZTMevmo2pbfsbA-153" edge="1">
+        <mxCell id="JZz9gDxdqFKFhFaxDRRG-63" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="JZz9gDxdqFKFhFaxDRRG-61" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1250" y="1365" as="sourcePoint" />
-            <mxPoint x="1410" y="1365" as="targetPoint" />
+            <mxPoint x="1435" y="1360" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1380" y="1375" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="JZz9gDxdqFKFhFaxDRRG-64" value="ต้องการ" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1982" y="1635" width="120" height="60" as="geometry" />
+          <mxGeometry x="1849" y="1760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JZz9gDxdqFKFhFaxDRRG-65" value="ประจำ" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="2280" y="1525" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JZz9gDxdqFKFhFaxDRRG-67" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="q6ZdLtZTMevmo2pbfsbA-176" target="JZz9gDxdqFKFhFaxDRRG-64" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2110" y="1695" as="sourcePoint" />
-            <mxPoint x="2270" y="1695" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JZz9gDxdqFKFhFaxDRRG-68" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" parent="JZz9gDxdqFKFhFaxDRRG-67" connectable="0" vertex="1">
-          <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JZz9gDxdqFKFhFaxDRRG-69" value="" style="shape=link;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="JZz9gDxdqFKFhFaxDRRG-2" target="JZz9gDxdqFKFhFaxDRRG-64" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -962,7 +768,7 @@
             <mxPoint x="2170" y="1715" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JZz9gDxdqFKFhFaxDRRG-70" value="M" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" parent="JZz9gDxdqFKFhFaxDRRG-69" connectable="0" vertex="1">
+        <mxCell id="JZz9gDxdqFKFhFaxDRRG-70" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" parent="JZz9gDxdqFKFhFaxDRRG-69" connectable="0" vertex="1">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JZz9gDxdqFKFhFaxDRRG-71" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JZz9gDxdqFKFhFaxDRRG-2" target="JZz9gDxdqFKFhFaxDRRG-65" edge="1">
@@ -971,7 +777,7 @@
             <mxPoint x="2340" y="1775" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JZz9gDxdqFKFhFaxDRRG-72" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" parent="JZz9gDxdqFKFhFaxDRRG-71" connectable="0" vertex="1">
+        <mxCell id="JZz9gDxdqFKFhFaxDRRG-72" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" parent="JZz9gDxdqFKFhFaxDRRG-71" connectable="0" vertex="1">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JZz9gDxdqFKFhFaxDRRG-73" value="" style="shape=link;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="a8v11ENWDGz0AbraGzzN-8" target="JZz9gDxdqFKFhFaxDRRG-65" edge="1">
@@ -980,7 +786,7 @@
             <mxPoint x="2042" y="1815" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JZz9gDxdqFKFhFaxDRRG-74" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" parent="JZz9gDxdqFKFhFaxDRRG-73" connectable="0" vertex="1">
+        <mxCell id="JZz9gDxdqFKFhFaxDRRG-74" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" parent="JZz9gDxdqFKFhFaxDRRG-73" connectable="0" vertex="1">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JZz9gDxdqFKFhFaxDRRG-75" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="a8v11ENWDGz0AbraGzzN-8" target="JZz9gDxdqFKFhFaxDRRG-53" edge="1">
@@ -992,22 +798,22 @@
         <mxCell id="JZz9gDxdqFKFhFaxDRRG-76" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;ER diagrams &amp;amp; relatiomship&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1779" y="40" width="470" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rf4sDfMZKIJ3_L3GI_zZ-1" value="&lt;u&gt;รหัสบัตรประชาชน&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="rf4sDfMZKIJ3_L3GI_zZ-1" value="&lt;u&gt;รหัสผู้ถาม&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="1288" y="1440" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rf4sDfMZKIJ3_L3GI_zZ-2" value="&lt;u&gt;&lt;i&gt;รหัสบัตรประชาชน&lt;/i&gt;&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="rf4sDfMZKIJ3_L3GI_zZ-2" value="&lt;u&gt;&lt;i&gt;รหัสบัตรประชาชน&lt;/i&gt;&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="1770" y="1420" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rf4sDfMZKIJ3_L3GI_zZ-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rf4sDfMZKIJ3_L3GI_zZ-1" target="q6ZdLtZTMevmo2pbfsbA-153">
+        <mxCell id="rf4sDfMZKIJ3_L3GI_zZ-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="rf4sDfMZKIJ3_L3GI_zZ-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1110" y="1440" as="sourcePoint" />
-            <mxPoint x="1270" y="1440" as="targetPoint" />
+            <mxPoint x="1485" y="1400" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1440" y="1440" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rf4sDfMZKIJ3_L3GI_zZ-4" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rf4sDfMZKIJ3_L3GI_zZ-2" target="a8v11ENWDGz0AbraGzzN-60">
+        <mxCell id="rf4sDfMZKIJ3_L3GI_zZ-4" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="rf4sDfMZKIJ3_L3GI_zZ-2" target="a8v11ENWDGz0AbraGzzN-60" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1610" y="1450" as="sourcePoint" />
             <mxPoint x="1770" y="1450" as="targetPoint" />
@@ -1016,113 +822,149 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rf4sDfMZKIJ3_L3GI_zZ-5" value="บิดา" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="995" width="100" height="40" as="geometry" />
+        <mxCell id="rf4sDfMZKIJ3_L3GI_zZ-5" value="บิดา/มารดา" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="1230" y="1055" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rf4sDfMZKIJ3_L3GI_zZ-6" value="มารดา" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1128" y="1115.02" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rf4sDfMZKIJ3_L3GI_zZ-7" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8uTD9FZD5NXwqfLO1ruH-31" target="rf4sDfMZKIJ3_L3GI_zZ-6">
+        <mxCell id="rf4sDfMZKIJ3_L3GI_zZ-8" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="8uTD9FZD5NXwqfLO1ruH-24" target="rf4sDfMZKIJ3_L3GI_zZ-5" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1278" y="1095" as="sourcePoint" />
-            <mxPoint x="1270" y="1160" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rf4sDfMZKIJ3_L3GI_zZ-8" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="8uTD9FZD5NXwqfLO1ruH-31" target="rf4sDfMZKIJ3_L3GI_zZ-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1060" y="1040" as="sourcePoint" />
+            <mxPoint x="1242.7461103560368" y="1060.817400717946" as="sourcePoint" />
             <mxPoint x="1220" y="1040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rf4sDfMZKIJ3_L3GI_zZ-9" value="จำนวนพี่น้อง" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="rf4sDfMZKIJ3_L3GI_zZ-9" value="จำนวนพี่น้อง" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="1320" y="1115.02" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rf4sDfMZKIJ3_L3GI_zZ-10" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8uTD9FZD5NXwqfLO1ruH-31" target="rf4sDfMZKIJ3_L3GI_zZ-9">
+        <mxCell id="rf4sDfMZKIJ3_L3GI_zZ-10" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8uTD9FZD5NXwqfLO1ruH-24" target="rf4sDfMZKIJ3_L3GI_zZ-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1270" y="1000" as="sourcePoint" />
             <mxPoint x="1430" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rf4sDfMZKIJ3_L3GI_zZ-11" value="ลำดับพี่น้อง" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="rf4sDfMZKIJ3_L3GI_zZ-11" value="ลำดับพี่น้อง" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="1320" y="1175" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rf4sDfMZKIJ3_L3GI_zZ-12" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rf4sDfMZKIJ3_L3GI_zZ-11" target="rf4sDfMZKIJ3_L3GI_zZ-9">
+        <mxCell id="rf4sDfMZKIJ3_L3GI_zZ-12" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="rf4sDfMZKIJ3_L3GI_zZ-11" target="8uTD9FZD5NXwqfLO1ruH-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1160" y="1170" as="sourcePoint" />
             <mxPoint x="1370" y="1150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rf4sDfMZKIJ3_L3GI_zZ-13" value="&lt;u&gt;รหัสบัตรประชาชน&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1328" y="985.02" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rf4sDfMZKIJ3_L3GI_zZ-14" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="8uTD9FZD5NXwqfLO1ruH-31" target="rf4sDfMZKIJ3_L3GI_zZ-13">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1130" y="930" as="sourcePoint" />
-            <mxPoint x="1290" y="930" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rf4sDfMZKIJ3_L3GI_zZ-15" value="&lt;u&gt;รหัสหลักสูตร&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="rf4sDfMZKIJ3_L3GI_zZ-15" value="&lt;u&gt;รหัสหลักสูตร&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="2561" y="1125" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rf4sDfMZKIJ3_L3GI_zZ-16" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="q6ZdLtZTMevmo2pbfsbA-147" target="rf4sDfMZKIJ3_L3GI_zZ-15">
+        <mxCell id="rf4sDfMZKIJ3_L3GI_zZ-16" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="q6ZdLtZTMevmo2pbfsbA-147" target="rf4sDfMZKIJ3_L3GI_zZ-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2550" y="1100" as="sourcePoint" />
             <mxPoint x="2710" y="1100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rf4sDfMZKIJ3_L3GI_zZ-17" value="พิมพ์ดีด" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="2618" y="794.98" width="100" height="40" as="geometry" />
+        <mxCell id="rf4sDfMZKIJ3_L3GI_zZ-17" value="พิมพ์ดีด" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="1746" y="900" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rf4sDfMZKIJ3_L3GI_zZ-18" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JZz9gDxdqFKFhFaxDRRG-39" target="rf4sDfMZKIJ3_L3GI_zZ-17">
+        <mxCell id="rf4sDfMZKIJ3_L3GI_zZ-18" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8uTD9FZD5NXwqfLO1ruH-11" target="rf4sDfMZKIJ3_L3GI_zZ-17" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2640" y="920" as="sourcePoint" />
-            <mxPoint x="2800" y="920" as="targetPoint" />
+            <mxPoint x="1948" y="785" as="sourcePoint" />
+            <mxPoint x="1976" y="1010.02" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rf4sDfMZKIJ3_L3GI_zZ-19" value="อังกฤษ" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="2558" y="845" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rf4sDfMZKIJ3_L3GI_zZ-20" value="ไทย" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="2683" y="844.98" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rf4sDfMZKIJ3_L3GI_zZ-21" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rf4sDfMZKIJ3_L3GI_zZ-19" target="rf4sDfMZKIJ3_L3GI_zZ-17">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2618" y="899.98" as="sourcePoint" />
-            <mxPoint x="2778" y="899.98" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rf4sDfMZKIJ3_L3GI_zZ-22" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rf4sDfMZKIJ3_L3GI_zZ-17" target="rf4sDfMZKIJ3_L3GI_zZ-20">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2488" y="889.98" as="sourcePoint" />
-            <mxPoint x="2648" y="889.98" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LUnVmqEfSM62_wLnjxpQ-1" value="&lt;u&gt;รหัสตำแหน่ง&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="LUnVmqEfSM62_wLnjxpQ-1" value="&lt;u&gt;รหัสตำแหน่ง&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="2171" y="1780" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LUnVmqEfSM62_wLnjxpQ-2" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LUnVmqEfSM62_wLnjxpQ-1" target="JZz9gDxdqFKFhFaxDRRG-2">
+        <mxCell id="LUnVmqEfSM62_wLnjxpQ-2" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="LUnVmqEfSM62_wLnjxpQ-1" target="JZz9gDxdqFKFhFaxDRRG-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2050" y="1770" as="sourcePoint" />
             <mxPoint x="2210" y="1770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LUnVmqEfSM62_wLnjxpQ-3" value="ชื่อตำแหน่ง" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="LUnVmqEfSM62_wLnjxpQ-3" value="ชื่อตำแหน่ง" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="2040" y="1820" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LUnVmqEfSM62_wLnjxpQ-4" value="เงินเดือน" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="LUnVmqEfSM62_wLnjxpQ-4" value="เงินเดือน" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="2300" y="1820" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LUnVmqEfSM62_wLnjxpQ-5" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="LUnVmqEfSM62_wLnjxpQ-3" target="JZz9gDxdqFKFhFaxDRRG-2">
+        <mxCell id="LUnVmqEfSM62_wLnjxpQ-5" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="LUnVmqEfSM62_wLnjxpQ-3" target="JZz9gDxdqFKFhFaxDRRG-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1770" y="1790" as="sourcePoint" />
             <mxPoint x="1930" y="1790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LUnVmqEfSM62_wLnjxpQ-6" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JZz9gDxdqFKFhFaxDRRG-2" target="LUnVmqEfSM62_wLnjxpQ-4">
+        <mxCell id="LUnVmqEfSM62_wLnjxpQ-6" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="JZz9gDxdqFKFhFaxDRRG-2" target="LUnVmqEfSM62_wLnjxpQ-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1790" y="1900" as="sourcePoint" />
             <mxPoint x="1950" y="1900" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="IsXhhxLWW2VtJqCBs4GE-2" value="ข้อมูลการศึกษา" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1967.5" y="210" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IsXhhxLWW2VtJqCBs4GE-4" value="วุฒิการศึกษา" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1955" y="365" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IsXhhxLWW2VtJqCBs4GE-7" value="" style="shape=link;html=1;rounded=0;exitX=0.57;exitY=-0.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8uTD9FZD5NXwqfLO1ruH-11" target="IsXhhxLWW2VtJqCBs4GE-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1950" y="530" as="sourcePoint" />
+            <mxPoint x="2100" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IsXhhxLWW2VtJqCBs4GE-8" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="IsXhhxLWW2VtJqCBs4GE-7">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IsXhhxLWW2VtJqCBs4GE-11" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IsXhhxLWW2VtJqCBs4GE-12" target="8uTD9FZD5NXwqfLO1ruH-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1840" y="730" as="sourcePoint" />
+            <mxPoint x="1880" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IsXhhxLWW2VtJqCBs4GE-12" value="นามสกุล" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="695" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IsXhhxLWW2VtJqCBs4GE-14" value="สำเนา" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="1195.02" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IsXhhxLWW2VtJqCBs4GE-15" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8uTD9FZD5NXwqfLO1ruH-24" target="IsXhhxLWW2VtJqCBs4GE-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1390" y="1150" as="sourcePoint" />
+            <mxPoint x="1550" y="1150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-9EpYV-dXbTU1ZP2Vzdr-1" value="อีเมล์" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2063" y="875" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-9EpYV-dXbTU1ZP2Vzdr-2" value="การสมัคร" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1435" y="1360" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-9EpYV-dXbTU1ZP2Vzdr-4" value="เข้าสมัคร" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1671" y="1350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-9EpYV-dXbTU1ZP2Vzdr-5" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="JZz9gDxdqFKFhFaxDRRG-1" target="-9EpYV-dXbTU1ZP2Vzdr-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1660" y="1530" as="sourcePoint" />
+            <mxPoint x="1820" y="1530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-9EpYV-dXbTU1ZP2Vzdr-6" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="-9EpYV-dXbTU1ZP2Vzdr-5">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-9EpYV-dXbTU1ZP2Vzdr-8" value="จำนวน" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1535" y="1645" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-9EpYV-dXbTU1ZP2Vzdr-9" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-9EpYV-dXbTU1ZP2Vzdr-8" target="JZz9gDxdqFKFhFaxDRRG-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1580" y="1580" as="sourcePoint" />
+            <mxPoint x="1740" y="1580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-9EpYV-dXbTU1ZP2Vzdr-10" value="" style="shape=link;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JZz9gDxdqFKFhFaxDRRG-1" target="JZz9gDxdqFKFhFaxDRRG-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1710" y="1750" as="sourcePoint" />
+            <mxPoint x="1850" y="1810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-9EpYV-dXbTU1ZP2Vzdr-11" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="-9EpYV-dXbTU1ZP2Vzdr-10">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QPuMdxqK4qBeDEazQWI1-2" value="ข้อมูล" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1705" y="1035" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -1137,6 +979,59 @@
         </mxCell>
         <mxCell id="GiPwyW9ktZbkFgDLnI67-2" value="&lt;p style=&quot;font-family: &amp;quot;YACkoFu1RUU 0&amp;quot;, _fb_, auto; --cyV3ZQ: 32px; --gJPlXQ: 1.4; line-height: 44px;&quot; class=&quot;cvGsUA direction-ltr align-start para-style-body&quot;&gt;&lt;span style=&quot;font-kerning: none;&quot; class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;ข้อมูลด้านทักษะภาษามีความสัมพันธ์ศักยาภาพด้านภาษากับข้อมูลส่วนตัว อย่างน้อย 1 อย่างมาก 1&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;YACkoFu1RUU 0&amp;quot;, _fb_, auto; --cyV3ZQ: 32px; --gJPlXQ: 1.4; line-height: 44px;&quot; class=&quot;cvGsUA direction-ltr align-start para-style-body&quot;&gt;&lt;span style=&quot;font-kerning: none;&quot; class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;ข้อมูลส่วนตัวมีความสัมพันธ์ศักยาภาพด้านภาษากับข้อมูลด้านทักษะ&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 24px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ภาษา&lt;/span&gt;&lt;span style=&quot;font-size: 24px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;อย่างน้อย 0 อย่างมาก N&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;YACkoFu1RUU 0&amp;quot;, _fb_, auto; --cyV3ZQ: 32px; --gJPlXQ: 1.4; line-height: 44px;&quot; class=&quot;cvGsUA direction-ltr align-start para-style-body&quot;&gt;&lt;span style=&quot;font-size: 24px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;YACkoFu1RUU 0&amp;quot;, _fb_, auto; --cyV3ZQ: 32px; --gJPlXQ: 1.4; line-height: 44px;&quot; class=&quot;cvGsUA direction-ltr align-start para-style-body&quot;&gt;&lt;span style=&quot;font-kerning: none;&quot; class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;ข้อมูลส่วนตัวมีความสัมพันธ์ความสัมพันธ์ครอบครัวกับข้อมูลครอบครัว อย่างน้อย 0 อย่างมาก 1&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;YACkoFu1RUU 0&amp;quot;, _fb_, auto; --cyV3ZQ: 32px; --gJPlXQ: 1.4; line-height: 44px;&quot; class=&quot;cvGsUA direction-ltr align-start para-style-body&quot;&gt;&lt;span style=&quot;font-kerning: none;&quot; class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;ข้อมูลครอบครัวมีความสัมพันธ์ความสัมพันธ์ครอบครัวกับข้อมูลส่วนตัว อย่างน้อย 1 อย่างมาก 1&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;YACkoFu1RUU 0&amp;quot;, _fb_, auto; --cyV3ZQ: 32px; --gJPlXQ: 1.4; line-height: 44px;&quot; class=&quot;cvGsUA direction-ltr align-start para-style-body&quot;&gt;&lt;span style=&quot;font-kerning: none;&quot; class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;YACkoFu1RUU 0&amp;quot;, _fb_, auto; --cyV3ZQ: 32px; --gJPlXQ: 1.4; line-height: 44px;&quot; class=&quot;cvGsUA direction-ltr align-start para-style-body&quot;&gt;&lt;span style=&quot;font-kerning: none;&quot; class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;ใบประกาศนียบัตรวิชาชีพมีความสัมพันธ์ผลงานโดดเด่นกับข้อมูลส่วนตัว อย่างน้อย 1 อย่างมาก 1&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;YACkoFu1RUU 0&amp;quot;, _fb_, auto; --cyV3ZQ: 32px; --gJPlXQ: 1.4; line-height: 44px;&quot; class=&quot;cvGsUA direction-ltr align-start para-style-body&quot;&gt;&lt;span style=&quot;font-kerning: none;&quot; class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;ข้อมูลส่วนตัวมีความสัมพันธ์ผลงานโดดเด่นกับบประกาศนียบัตรวิชาชีพมีอย่างน้อย 0 อย่างมาก N&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;YACkoFu1RUU 0&amp;quot;, _fb_, auto; --cyV3ZQ: 32px; --gJPlXQ: 1.4; line-height: 44px;&quot; class=&quot;cvGsUA direction-ltr align-start para-style-body&quot;&gt;&lt;span style=&quot;font-kerning: none;&quot; class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;YACkoFu1RUU 0&amp;quot;, _fb_, auto; --cyV3ZQ: 32px; --gJPlXQ: 1.4; line-height: 44px;&quot; class=&quot;cvGsUA direction-ltr align-start para-style-body&quot;&gt;&lt;span style=&quot;font-kerning: none;&quot; class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;ข้อมูลส่วนตัวมีความสัมพันธ์ศักยาภาพด้านคอมพิวเตอร์กับทักษะการใช้คอมพิวเตอร์ อย่างน้อย 0 อย่างมาก N&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;YACkoFu1RUU 0&amp;quot;, _fb_, auto; --cyV3ZQ: 32px; --gJPlXQ: 1.4; line-height: 44px;&quot; class=&quot;cvGsUA direction-ltr align-start para-style-body&quot;&gt;&lt;span style=&quot;font-kerning: none;&quot; class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;ทักษะการใช้คอมพิวเตอร์มีความสัมพันธ์ศักยาภาพด้านคอมพิวเตอร์กับข้อมูลส่วนตัว อย่างน้อย 1 อย่างมาก 1&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;YACkoFu1RUU 0&amp;quot;, _fb_, auto; --cyV3ZQ: 32px; --gJPlXQ: 1.4; line-height: 44px;&quot; class=&quot;cvGsUA direction-ltr align-start para-style-body&quot;&gt;&lt;span style=&quot;font-kerning: none;&quot; class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;YACkoFu1RUU 0&amp;quot;, _fb_, auto; --cyV3ZQ: 32px; --gJPlXQ: 1.4; line-height: 44px;&quot; class=&quot;cvGsUA direction-ltr align-start para-style-body&quot;&gt;&lt;span style=&quot;font-kerning: none;&quot; class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;ข้อมูลการฝึกอบรม/พัฒนามีความสัมพันธ์เข้าอบรมกับข้อมูลส่วนตัว อย่างน้อย 1 อย่างมาก 1&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;YACkoFu1RUU 0&amp;quot;, _fb_, auto; --cyV3ZQ: 32px; --gJPlXQ: 1.4; line-height: 44px;&quot; class=&quot;cvGsUA direction-ltr align-start para-style-body&quot;&gt;&lt;span style=&quot;font-kerning: none;&quot; class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;ข้อมูลส่วนตัวมีความสัมพันธ์เข้าอบรมกับข้อมูลการฝึกอบรม/พัฒนา อย่างน้อย 0 อย่างมาก N&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;YACkoFu1RUU 0&amp;quot;, _fb_, auto; --cyV3ZQ: 32px; --gJPlXQ: 1.4; line-height: 44px;&quot; class=&quot;cvGsUA direction-ltr align-start para-style-body&quot;&gt;&lt;span style=&quot;font-kerning: none;&quot; class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;YACkoFu1RUU 0&amp;quot;, _fb_, auto; --cyV3ZQ: 31.9999px; --gJPlXQ: 1.4; line-height: 44px;&quot; class=&quot;cvGsUA direction-ltr align-start para-style-body&quot;&gt;&lt;span style=&quot;font-kerning: none;&quot; class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;ข้อมูลส่วนตัวมีความสัมพันธ์เคยกับข้อมูลประวัติการทำงาน/ฝึกงาน อย่างน้อย 0 อย่างมาก N&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;YACkoFu1RUU 0&amp;quot;, _fb_, auto; --cyV3ZQ: 31.9999px; --gJPlXQ: 1.4; line-height: 44px;&quot; class=&quot;cvGsUA direction-ltr align-start para-style-body&quot;&gt;&lt;span style=&quot;font-kerning: none;&quot; class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;ข้อมูลประวัติการทำงาน/ฝึกงานมีความสัมพันธ์เคยกับข้อมูลส่วนตัว อย่างน้อย 1 อย่างมาก 1&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;YACkoFu1RUU 0&amp;quot;, _fb_, auto; --cyV3ZQ: 31.9999px; --gJPlXQ: 1.4; line-height: 44px;&quot; class=&quot;cvGsUA direction-ltr align-start para-style-body&quot;&gt;&lt;span style=&quot;font-kerning: none;&quot; class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;YACkoFu1RUU 0&amp;quot;, _fb_, auto; --cyV3ZQ: 31.9999px; --gJPlXQ: 1.4; line-height: 44px;&quot; class=&quot;cvGsUA direction-ltr align-start para-style-body&quot;&gt;&lt;span style=&quot;font-size: 24px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ข้อมูลการศึกษามีความสัมพันธ์วุฒิการศึกษากับข้อมูลส่วนตัว อย่างน้อย 1 อย่างมาก 1&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;YACkoFu1RUU 0&amp;quot;, _fb_, auto; --cyV3ZQ: 31.9999px; --gJPlXQ: 1.4; line-height: 44px;&quot; class=&quot;cvGsUA direction-ltr align-start para-style-body&quot;&gt;&lt;span style=&quot;font-kerning: none;&quot; class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;YACkoFu1RUU 0&amp;quot;, _fb_, auto; --cyV3ZQ: 31.9999px; --gJPlXQ: 1.4; line-height: 44px;&quot; class=&quot;cvGsUA direction-ltr align-start para-style-body&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;ข้อมูลส่วนตัว&lt;/span&gt;&lt;span style=&quot;font-size: 24px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;มีความสัมพันธ์&lt;/span&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;วุฒิการศึกษา&lt;/span&gt;&lt;span style=&quot;font-size: 24px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;กับ&lt;/span&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;ข้อมูลการศึกษา&lt;/span&gt;&lt;span style=&quot;font-size: 24px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;อย่างน้อย 1 อย่างมาก 1&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;YACkoFu1RUU 0&amp;quot;, _fb_, auto; --cyV3ZQ: 31.9999px; --gJPlXQ: 1.4; line-height: 44px;&quot; class=&quot;cvGsUA direction-ltr align-start para-style-body&quot;&gt;&lt;span style=&quot;font-kerning: none;&quot; class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;YACkoFu1RUU 0&amp;quot;, _fb_, auto; --cyV3ZQ: 31.9999px; --gJPlXQ: 1.4; line-height: 44px;&quot; class=&quot;cvGsUA direction-ltr align-start para-style-body&quot;&gt;&lt;span style=&quot;font-kerning: none;&quot; class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;ข้อมูลส่วนตัวมีความสัมพันธ์ข้อมูลกับ&lt;span style=&quot;font-family: Helvetica; text-align: center; text-wrap-mode: wrap;&quot;&gt;ผู้สมัคร&lt;/span&gt;&amp;nbsp;อย่างน้อย 1 อย่างมาก 1&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;YACkoFu1RUU 0&amp;quot;, _fb_, auto; --cyV3ZQ: 31.9999px; --gJPlXQ: 1.4; line-height: 44px;&quot; class=&quot;cvGsUA direction-ltr align-start para-style-body&quot;&gt;&lt;span style=&quot;font-kerning: none;&quot; class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;text-align: center; text-wrap-mode: wrap; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: Helvetica;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;ผู้สมัคร&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;มีความสัมพันธ์ข้อมูลกับข้อมูลส่วนตัว อย่างน้อย 1 อย่างมาก 1&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;YACkoFu1RUU 0&amp;quot;, _fb_, auto; --cyV3ZQ: 31.9999px; --gJPlXQ: 1.4; line-height: 44px;&quot; class=&quot;cvGsUA direction-ltr align-start para-style-body&quot;&gt;&lt;span style=&quot;font-kerning: none;&quot; class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;YACkoFu1RUU 0&amp;quot;, _fb_, auto; --cyV3ZQ: 31.9999px; --gJPlXQ: 1.4; line-height: 44px;&quot; class=&quot;cvGsUA direction-ltr align-start para-style-body&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;span style=&quot;font-kerning: none;&quot; class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot;&gt;&lt;span style=&quot;text-align: center; text-wrap-mode: wrap; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: Helvetica;&quot;&gt;ผู้สมัคร&lt;/span&gt;มีความสัมพันธ์เข้าสมัครกับรอบการสมัคร อย่างน้อย 1 อย่างมาก 1&lt;/span&gt;&lt;span style=&quot;font-kerning: none;&quot; class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none white-space-prewrap&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;YACkoFu1RUU 0&amp;quot;, _fb_, auto; --cyV3ZQ: 31.9999px; --gJPlXQ: 1.4; line-height: 44px;&quot; class=&quot;cvGsUA direction-ltr align-start para-style-body&quot;&gt;&lt;span style=&quot;font-kerning: none;&quot; class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;รอบการสมัครมีความสัมพันธ์เข้าสมัครกับ&lt;span style=&quot;font-family: Helvetica; text-align: center; text-wrap-mode: wrap;&quot;&gt;ผู้สมัคร&lt;/span&gt;&amp;nbsp;อย่างน้อย 0 อย่างมาก N&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;YACkoFu1RUU 0&amp;quot;, _fb_, auto; --cyV3ZQ: 31.9999px; --gJPlXQ: 1.4; line-height: 44px;&quot; class=&quot;cvGsUA direction-ltr align-start para-style-body&quot;&gt;&lt;span style=&quot;font-size: 24px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;YACkoFu1RUU 0&amp;quot;, _fb_, auto; --cyV3ZQ: 31.9999px; --gJPlXQ: 1.4; line-height: 44px;&quot; class=&quot;cvGsUA direction-ltr align-start para-style-body&quot;&gt;&lt;span style=&quot;font-kerning: none;&quot; class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;พนักงานมีความสัมพันธ์หัวหน้ากับพนักงาน อย่างน้อย 1 อย่างมาก 1&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;YACkoFu1RUU 0&amp;quot;, _fb_, auto; --cyV3ZQ: 31.9999px; --gJPlXQ: 1.4; line-height: 44px;&quot; class=&quot;cvGsUA direction-ltr align-start para-style-body&quot;&gt;&lt;span style=&quot;font-size: 24px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;พนักงานมีความสัมพันธ์หัวหน้ากับพนักงาน อย่างน้อย 1 อย่างมาก 1&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;YACkoFu1RUU 0&amp;quot;, _fb_, auto; --cyV3ZQ: 31.9999px; --gJPlXQ: 1.4; line-height: 44px;&quot; class=&quot;cvGsUA direction-ltr align-start para-style-body&quot;&gt;&lt;span style=&quot;font-size: 24px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;YACkoFu1RUU 0&amp;quot;, _fb_, auto; --cyV3ZQ: 31.9999px; --gJPlXQ: 1.4; line-height: 44px;&quot; class=&quot;cvGsUA direction-ltr align-start para-style-body&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-kerning: none;&quot; class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot;&gt;&lt;span style=&quot;font-size: 24px; text-align: center; text-wrap-mode: wrap; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: Helvetica;&quot;&gt;การรับสมัคร&lt;/span&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;มีความสัมพันธ์&lt;/span&gt;&lt;span style=&quot;font-family: Helvetica; text-align: center; text-wrap-mode: wrap;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;จำนวนครั้ง&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;กับรอบการสมัคร อย่างน้อย 1 อย่างมาก 1&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-kerning: none; font-size: 24px;&quot; class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none white-space-prewrap&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;YACkoFu1RUU 0&amp;quot;, _fb_, auto; --cyV3ZQ: 31.9999px; --gJPlXQ: 1.4; line-height: 44px;&quot; class=&quot;cvGsUA direction-ltr align-start para-style-body&quot;&gt;&lt;span style=&quot;font-kerning: none;&quot; class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;รอบการสมัครมีความสัมพันธ์&lt;span style=&quot;font-family: Helvetica; text-align: center; text-wrap-mode: wrap;&quot;&gt;จำนวนครั้ง&lt;/span&gt;กับ&lt;span style=&quot;font-family: Helvetica; text-align: center; text-wrap-mode: wrap;&quot;&gt;การรับสมัคร&lt;/span&gt;&amp;nbsp;อย่างน้อย 0 อย่างมาก N&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;YACkoFu1RUU 0&amp;quot;, _fb_, auto; --cyV3ZQ: 31.9999px; --gJPlXQ: 1.4; line-height: 44px;&quot; class=&quot;cvGsUA direction-ltr align-start para-style-body&quot;&gt;&lt;span style=&quot;font-kerning: none;&quot; class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;YACkoFu1RUU 0&amp;quot;, _fb_, auto; --cyV3ZQ: 31.9999px; --gJPlXQ: 1.4; line-height: 44px;&quot; class=&quot;cvGsUA direction-ltr align-start para-style-body&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-kerning: none;&quot; class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot;&gt;&lt;span style=&quot;font-size: 24px; text-align: center; text-wrap-mode: wrap; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: Helvetica;&quot;&gt;การรับสมัคร&lt;/span&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;มีความสัมพันธ์&lt;/span&gt;&lt;span style=&quot;font-family: Helvetica; text-align: center; text-wrap-mode: wrap;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;เปิดรับ&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;กับสาขา อย่างน้อย 1 อย่างมาก 1&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-kerning: none; font-size: 24px;&quot; class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none white-space-prewrap&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;YACkoFu1RUU 0&amp;quot;, _fb_, auto; --cyV3ZQ: 31.9999px; --gJPlXQ: 1.4; line-height: 44px;&quot; class=&quot;cvGsUA direction-ltr align-start para-style-body&quot;&gt;&lt;span style=&quot;font-kerning: none;&quot; class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;YACkoFu1RUU 0&amp;quot;, _fb_, auto; --cyV3ZQ: 31.9999px; --gJPlXQ: 1.4; line-height: 44px;&quot; class=&quot;cvGsUA direction-ltr align-start para-style-body&quot;&gt;&lt;span style=&quot;font-kerning: none;&quot; class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;สาขามีความสัมพันธ์&lt;span style=&quot;font-family: Helvetica; text-align: center; text-wrap-mode: wrap;&quot;&gt;เปิดรับ&lt;/span&gt;กับ&lt;span style=&quot;font-family: Helvetica; text-align: center; text-wrap-mode: wrap;&quot;&gt;การรับสมัคร&lt;/span&gt;&amp;nbsp;อย่างน้อย 1 อย่างมาก N&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;YACkoFu1RUU 0&amp;quot;, _fb_, auto; --cyV3ZQ: 31.9999px; --gJPlXQ: 1.4; line-height: 44px;&quot; class=&quot;cvGsUA direction-ltr align-start para-style-body&quot;&gt;&lt;span style=&quot;font-kerning: none;&quot; class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;YACkoFu1RUU 0&amp;quot;, _fb_, auto; --cyV3ZQ: 31.9999px; --gJPlXQ: 1.4; line-height: 44px;&quot; class=&quot;cvGsUA direction-ltr align-start para-style-body&quot;&gt;&lt;span style=&quot;font-kerning: none;&quot; class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot;&gt;&lt;span style=&quot;text-align: center; text-wrap-mode: wrap; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: Helvetica;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;ตำแหน่ง&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;มีความสัมพันธ์&lt;/span&gt;&lt;span style=&quot;font-family: Helvetica; text-align: center; text-wrap-mode: wrap;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;ต้องการ&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;กับสาขา อย่างน้อย 1 อย่างมาก N&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;YACkoFu1RUU 0&amp;quot;, _fb_, auto; --cyV3ZQ: 31.9999px; --gJPlXQ: 1.4; line-height: 44px;&quot; class=&quot;cvGsUA direction-ltr align-start para-style-body&quot;&gt;&lt;span style=&quot;font-kerning: none;&quot; class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;YACkoFu1RUU 0&amp;quot;, _fb_, auto; --cyV3ZQ: 31.9999px; --gJPlXQ: 1.4; line-height: 44px;&quot; class=&quot;cvGsUA direction-ltr align-start para-style-body&quot;&gt;&lt;span style=&quot;font-kerning: none;&quot; class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;YACkoFu1RUU 0&amp;quot;, _fb_, auto; --cyV3ZQ: 31.9999px; --gJPlXQ: 1.4; line-height: 44px;&quot; class=&quot;cvGsUA direction-ltr align-start para-style-body&quot;&gt;&lt;span style=&quot;font-kerning: none;&quot; class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;สาขามีความสัมพันธ์&lt;span style=&quot;font-family: Helvetica; text-align: center; text-wrap-mode: wrap;&quot;&gt;ต้องการ&lt;/span&gt;กับ&lt;span style=&quot;font-family: Helvetica; text-align: center; text-wrap-mode: wrap;&quot;&gt;ตำแหน่ง&lt;/span&gt;&amp;nbsp;อย่างน้อย 0 อย่างมาก M&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;YACkoFu1RUU 0&amp;quot;, _fb_, auto; --cyV3ZQ: 31.9999px; --gJPlXQ: 1.4; line-height: 44px;&quot; class=&quot;cvGsUA direction-ltr align-start para-style-body&quot;&gt;&lt;span style=&quot;font-kerning: none;&quot; class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;YACkoFu1RUU 0&amp;quot;, _fb_, auto; --cyV3ZQ: 31.9999px; --gJPlXQ: 1.4; line-height: 44px;&quot; class=&quot;cvGsUA direction-ltr align-start para-style-body&quot;&gt;&lt;span style=&quot;font-kerning: none;&quot; class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot;&gt;&lt;span style=&quot;text-align: center; text-wrap-mode: wrap; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: Helvetica;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;ตำแหน่ง&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;มีความสัมพันธ์&lt;/span&gt;&lt;span style=&quot;font-family: Helvetica; text-align: center; text-wrap-mode: wrap;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;ประจำ&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;กับ&lt;/span&gt;&lt;span style=&quot;font-family: Helvetica; text-align: center; text-wrap-mode: wrap;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;พนักงาน&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&amp;nbsp;อย่างน้อย 0 อย่างมาก 1&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;YACkoFu1RUU 0&amp;quot;, _fb_, auto; --cyV3ZQ: 31.9999px; --gJPlXQ: 1.4; line-height: 44px;&quot; class=&quot;cvGsUA direction-ltr align-start para-style-body&quot;&gt;&lt;span style=&quot;font-kerning: none;&quot; class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;YACkoFu1RUU 0&amp;quot;, _fb_, auto; --cyV3ZQ: 31.9999px; --gJPlXQ: 1.4; line-height: 44px;&quot; class=&quot;cvGsUA direction-ltr align-start para-style-body&quot;&gt;&lt;span style=&quot;font-kerning: none;&quot; class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;YACkoFu1RUU 0&amp;quot;, _fb_, auto; --cyV3ZQ: 31.9999px; --gJPlXQ: 1.4; line-height: 44px;&quot; class=&quot;cvGsUA direction-ltr align-start para-style-body&quot;&gt;&lt;span style=&quot;font-kerning: none;&quot; class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;YACkoFu1RUU 0&amp;quot;, _fb_, auto; --cyV3ZQ: 31.9999px; --gJPlXQ: 1.4; line-height: 44px;&quot; class=&quot;cvGsUA direction-ltr align-start para-style-body&quot;&gt;&lt;span style=&quot;font-kerning: none;&quot; class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;text-align: center; text-wrap-mode: wrap; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: Helvetica;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;พนักงาน&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;มีความสัมพันธ์&lt;/span&gt;&lt;span style=&quot;font-size: 24px; font-family: Helvetica; text-align: center; text-wrap-mode: wrap;&quot;&gt;ประจำ&lt;/span&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;กับ&lt;/span&gt;&lt;span style=&quot;font-size: 24px; font-family: Helvetica; text-align: center; text-wrap-mode: wrap;&quot;&gt;ตำแหน่ง&lt;/span&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&amp;nbsp;อย่างน้อย 1 อย่างมาก N&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="44" y="96" width="1053" height="2484" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="RHl8SpyEOnPMYiGH1kLs" name="Page-4">
+    <mxGraphModel dx="1658" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ONCf_vAWE9Wg-uwq9pjO-1" value="mapping" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="15" y="8" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bPEK5HolHdzqxBD38AzA-1" value="ผู้สมัคร(&lt;u&gt;เลข&lt;/u&gt;,ชื่อ,นามสกุล,น้ำหนัก,ส่วนสูง,อายุ,พิมดีด,สำเนาบัตรประจำตัวประชาชน,ที่อยู่ปัจจุบันที่สามารถติดต่อได้,อีเมล" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="78" width="600" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2oSOzT_hEc77mTPRfY0Z-1" value="รอบการสมัคร(&lt;u&gt;รหัสบัตรประชาชน&lt;/u&gt;,&lt;u&gt;รอบที่&lt;/u&gt;,วันเปิด,วันปิด" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="108" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jGTmskI0TdUU2BcjfsW2-1" value="สาขา(&lt;u&gt;รหัสสาขา&lt;/u&gt;,ต่อสาขา" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="138" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fER2kwdHecJX4nWyrCne-1" value="ตำเเหน่ง(&lt;u&gt;รหัสตำเเหน่ง&lt;/u&gt;,ชื่อตำเเหน่ง,เงินเดือน" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-235" y="168" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cAuUqzOP5ojycS307OIH-1" value="พนักงาน(&lt;u&gt;รหัสพนักงาน&lt;/u&gt;,รหัสบัตรประชาชน,ชื่อพนักงาน" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-235" y="198" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Lex3OsGQT210grCX2OmS-1" value="ทักษะการใช้คอมพิวเตอร์(&lt;u&gt;รหัส&lt;/u&gt;,ชื่อ" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;fontColor=default;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="228" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3X7Mh5DQYpXoypNnqvb-2" value="ข้อมูลการศึกษา( &lt;u&gt;ระดับการศึกษา &lt;/u&gt;,วฒุิ/สาขาที่สำเร็จ,ว/ด/ป ที่สำเร็จ,ชื่อสถาบันการศึกษา,เกรด,&lt;i&gt;เลข&lt;/i&gt;" style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="258" width="490" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Kii6B750Hl7ecgS2WRbo-1" value="ข้อมูลด้านทักษะภาษา(อ่าน,ภาษา,ฟัง,พูด,เขียน,&lt;i&gt;เลข&lt;/i&gt;" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-242" y="288" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_VQQazF3olhOnLBZeb8C-1" value="ใบประกาศนียบัตรวิชาชีพ(&lt;u&gt;เลขที่ใบประกาศนียบัตรวิชาชีพ&lt;/u&gt;,ใบประกาศนียบัตรวิชาชีพ,วันหมดอายุ,ออกโดย,ออกเมื่อวันที่,&lt;i&gt;เลข&lt;/i&gt;" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-245" y="318" width="610" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jxe70zVWXXqkdY_p4ItF-1" value="ข้อมูลครอบครัว(บิดา/มารดา,จำนวนพี่น้อง,ลำดับพี่น้อง,สำเนา,ที่อยู่,อายุ,อาชีพ,&lt;i&gt;เลข&lt;/i&gt;" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-255" y="348" width="420" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7Qt77VhDcqntDfeIfUM9-1" value="ข้อมูลประวัติการทำงาน/ฝึกงาน(&lt;u&gt;ระยะเวลาปฎิบัติงาน,&lt;/u&gt;เงินเดือน,เหตุผลที่ออก,ตำแหน่ง/ลักษณะงานที่ทำ,สถานที่ทำงาน/ฝึกงาน,&lt;i&gt;เลข&lt;/i&gt;" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-265" y="380" width="650" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kmjBqPngU_k0lOeYmmEN-1" value="ข้อมูลการฝึกอบรม/พัฒนา(&lt;u&gt;รหัสหลักสูตร&lt;/u&gt;,จัดโดยสถาบัน,ถึง,จาก,หลักสูตร,&lt;i&gt;เลข&lt;/i&gt;" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-255" y="410" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4mGkAiTeZ0IvowleM1iw-1" value="การสมัคร(&lt;u&gt;รหัสผู้สมัคร,รหัสผู้ถาม&lt;/u&gt;,เงินเดือนที่ต้องการ,วันที่สมัครงาน,วันที่เริ่มงานได้,&lt;i&gt;เลข&lt;/i&gt;" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=default;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-255" y="440" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EM-kywqaVvxPWOyMKo75-1" value="การรับสมัคร(จำนวน" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-255" y="480" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
