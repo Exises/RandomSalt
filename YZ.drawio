@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36" version="26.1.0" pages="6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.1.0" pages="6">
   <diagram id="gAw1tBUkNWIr8xWbqZ4x" name="Home">
     <mxGraphModel dx="1793" dy="950" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -973,7 +973,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="DprQGMIpL8UpGtNdDQ8e" name="Page-5">
-    <mxGraphModel dx="829" dy="1431" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="449" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -987,7 +987,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="z3N4cmE5RsJoYMhZ7I9v" name="Page-6">
-    <mxGraphModel dx="1066" dy="1840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1323" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1071,6 +1071,15 @@
         </mxCell>
         <mxCell id="vWxRj9SKD0DctATHgS5w-4" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;ชื่อพนักงาน&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="539.8" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O5cnP2qhUq-gG6Jgs2l6-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="vWxRj9SKD0DctATHgS5w-5" target="IgTgN1Jpc50lo-oXM-kn-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="718.8" y="900" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="719" y="920" />
+              <mxPoint x="320" y="920" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="vWxRj9SKD0DctATHgS5w-5" value="&lt;i style=&quot;font-size: 18px; text-align: left;&quot;&gt;รหัสตำแหน่ง&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="658.8" y="980" width="120" height="60" as="geometry" />
