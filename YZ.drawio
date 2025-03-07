@@ -987,122 +987,122 @@
     </mxGraphModel>
   </diagram>
   <diagram id="z3N4cmE5RsJoYMhZ7I9v" name="Page-6">
-    <mxGraphModel dx="2613" dy="1497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1066" dy="1840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Ck8KszksMOlNZkarOgec-1" value="&lt;span style=&quot;font-size: 32px;&quot;&gt;SCHEMA Diagram&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Ck8KszksMOlNZkarOgec-1" value="&lt;span style=&quot;font-size: 32px;&quot;&gt;SCHEMA Diagram&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="488.8" y="60" width="290" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="G9_xbygHOYxvRU36c9Mh-1" value="&lt;div style=&quot;color: rgb(0, 0, 0); text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="G9_xbygHOYxvRU36c9Mh-1" value="&lt;div style=&quot;color: rgb(0, 0, 0); text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="709.8" y="145" width="20" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="G9_xbygHOYxvRU36c9Mh-2" value="&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;ผู้สมัคร&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="G9_xbygHOYxvRU36c9Mh-2" value="&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;ผู้สมัคร&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="259.8" y="140" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xKTLk13hJ9xVyNKTabZv-1" value="&lt;u style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 18px; text-align: left; text-wrap-mode: nowrap; background-color: transparent;&quot;&gt;รหัสผู้สมัคร&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xKTLk13hJ9xVyNKTabZv-1" value="&lt;u style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 18px; text-align: left; text-wrap-mode: nowrap; background-color: transparent;&quot;&gt;รหัสผู้สมัคร&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="259.8" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2YVuK9D7arxbC-Ax9TPZ-1" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;ชื่อ&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2YVuK9D7arxbC-Ax9TPZ-1" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;ชื่อ&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="379.8" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2YVuK9D7arxbC-Ax9TPZ-2" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;นามสกุล&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2YVuK9D7arxbC-Ax9TPZ-2" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;นามสกุล&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="499.8" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2YVuK9D7arxbC-Ax9TPZ-3" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;น้ำหนัก&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2YVuK9D7arxbC-Ax9TPZ-3" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;น้ำหนัก&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="619.8" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2YVuK9D7arxbC-Ax9TPZ-4" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;ส่วนสูง&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2YVuK9D7arxbC-Ax9TPZ-4" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;ส่วนสูง&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="739.8" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2YVuK9D7arxbC-Ax9TPZ-5" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;อายุ&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2YVuK9D7arxbC-Ax9TPZ-5" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;อายุ&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="859.8" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2YVuK9D7arxbC-Ax9TPZ-6" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;สำเนาบัตรประจำตัวประชาชน&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2YVuK9D7arxbC-Ax9TPZ-6" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;สำเนาบัตรประจำตัวประชาชน&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="979.8" y="180" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SwNiXKXIMHQMT7A2fGG9-2" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;ที่อยู่ปัจจุบันที่สามารถติดต่อได้&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SwNiXKXIMHQMT7A2fGG9-2" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;ที่อยู่ปัจจุบันที่สามารถติดต่อได้&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1209.8" y="180" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SwNiXKXIMHQMT7A2fGG9-3" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;อีเมล&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SwNiXKXIMHQMT7A2fGG9-3" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;อีเมล&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1439.8" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WmGCK_uIjRtf5LLAD_Vx-2" value="&lt;span style=&quot;font-size: 18px; text-wrap-mode: nowrap;&quot;&gt;รอบการสมัคร&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WmGCK_uIjRtf5LLAD_Vx-2" value="&lt;span style=&quot;font-size: 18px; text-wrap-mode: nowrap;&quot;&gt;รอบการสมัคร&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="259.8" y="340" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WmGCK_uIjRtf5LLAD_Vx-3" value="&lt;u style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;รอบที่&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WmGCK_uIjRtf5LLAD_Vx-3" value="&lt;u style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;รอบที่&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="259.8" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WmGCK_uIjRtf5LLAD_Vx-4" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;วันเปิด&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WmGCK_uIjRtf5LLAD_Vx-4" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;วันเปิด&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="379.8" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WmGCK_uIjRtf5LLAD_Vx-5" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;วันปิด&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WmGCK_uIjRtf5LLAD_Vx-5" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;วันปิด&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="499.8" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xeULYE-8JItd_O-k4I-5-2" value="&lt;span style=&quot;font-size: 18px; text-wrap-mode: nowrap;&quot;&gt;สาขา&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xeULYE-8JItd_O-k4I-5-2" value="&lt;span style=&quot;font-size: 18px; text-wrap-mode: nowrap;&quot;&gt;สาขา&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="259.8" y="540" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="xeULYE-8JItd_O-k4I-5-3" value="&lt;u style=&quot;color: rgb(0, 0, 0); text-align: left; text-wrap-mode: nowrap; font-size: 18px; background-color: rgb(251, 251, 251);&quot;&gt;รหัสสาขา&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xeULYE-8JItd_O-k4I-5-3" value="&lt;u style=&quot;color: rgb(0, 0, 0); text-align: left; text-wrap-mode: nowrap; font-size: 18px; background-color: rgb(251, 251, 251);&quot;&gt;รหัสสาขา&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="259.8" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xeULYE-8JItd_O-k4I-5-4" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;ชื่อสาขา&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xeULYE-8JItd_O-k4I-5-4" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;ชื่อสาขา&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="379.8" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IgTgN1Jpc50lo-oXM-kn-2" value="&lt;span style=&quot;font-size: 18px; text-wrap-mode: nowrap;&quot;&gt;ตำเเหน่ง&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IgTgN1Jpc50lo-oXM-kn-2" value="&lt;span style=&quot;font-size: 18px; text-wrap-mode: nowrap;&quot;&gt;ตำเเหน่ง&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="259.8" y="740" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="IgTgN1Jpc50lo-oXM-kn-3" value="&lt;u style=&quot;color: rgb(0, 0, 0); text-align: left; text-wrap-mode: nowrap; font-size: 18px; background-color: rgb(251, 251, 251);&quot;&gt;รหัสตำเเหน่ง&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IgTgN1Jpc50lo-oXM-kn-3" value="&lt;u style=&quot;color: rgb(0, 0, 0); text-align: left; text-wrap-mode: nowrap; font-size: 18px; background-color: rgb(251, 251, 251);&quot;&gt;รหัสตำเเหน่ง&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="259.8" y="780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IgTgN1Jpc50lo-oXM-kn-4" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;ชื่อตำเเหน่ง&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IgTgN1Jpc50lo-oXM-kn-4" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;ชื่อตำเเหน่ง&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="379.8" y="780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IgTgN1Jpc50lo-oXM-kn-5" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;เงินเดือน&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IgTgN1Jpc50lo-oXM-kn-5" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;เงินเดือน&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="499.8" y="780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0LtgaE7aZOBiDVV8rqQ8-1" value="&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;พนักงาน&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="0LtgaE7aZOBiDVV8rqQ8-1" value="&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;พนักงาน&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="259.8" y="940" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vWxRj9SKD0DctATHgS5w-2" value="&lt;u style=&quot;color: rgb(0, 0, 0); text-align: left; text-wrap-mode: nowrap; font-size: 18px; background-color: rgb(251, 251, 251);&quot;&gt;รหัสพนักงาน&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vWxRj9SKD0DctATHgS5w-2" value="&lt;u style=&quot;color: rgb(0, 0, 0); text-align: left; text-wrap-mode: nowrap; font-size: 18px; background-color: rgb(251, 251, 251);&quot;&gt;รหัสพนักงาน&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="259.8" y="980" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vWxRj9SKD0DctATHgS5w-3" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;รหัสบัตรประชาชน&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vWxRj9SKD0DctATHgS5w-3" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;รหัสบัตรประชาชน&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="379.8" y="980" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vWxRj9SKD0DctATHgS5w-4" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;ชื่อพนักงาน&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vWxRj9SKD0DctATHgS5w-4" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;ชื่อพนักงาน&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="539.8" y="980" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vWxRj9SKD0DctATHgS5w-5" value="&lt;i style=&quot;font-size: 18px; text-align: left;&quot;&gt;รหัสตำแหน่ง&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vWxRj9SKD0DctATHgS5w-5" value="&lt;i style=&quot;font-size: 18px; text-align: left;&quot;&gt;รหัสตำแหน่ง&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="658.8" y="980" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vWxRj9SKD0DctATHgS5w-8" value="&lt;span style=&quot;font-size: 18px; text-wrap-mode: nowrap;&quot;&gt;ทักษะการใช้คอมพิวเตอร์&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vWxRj9SKD0DctATHgS5w-8" value="&lt;span style=&quot;font-size: 18px; text-wrap-mode: nowrap;&quot;&gt;ทักษะการใช้คอมพิวเตอร์&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="259.8" y="1139" width="190" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vY2Qs_7HokYuwpU8YPH9-2" value="&lt;u style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;รหัส&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vY2Qs_7HokYuwpU8YPH9-2" value="&lt;u style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;รหัส&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="259.8" y="1180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vY2Qs_7HokYuwpU8YPH9-3" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;ชื่อ&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vY2Qs_7HokYuwpU8YPH9-3" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;ชื่อ&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="379.8" y="1180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vY2Qs_7HokYuwpU8YPH9-4" value="&lt;span style=&quot;font-size: 18px; text-wrap-mode: nowrap;&quot;&gt;ข้อมูลการศึกษา&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vY2Qs_7HokYuwpU8YPH9-4" value="&lt;span style=&quot;font-size: 18px; text-wrap-mode: nowrap;&quot;&gt;ข้อมูลการศึกษา&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="259.8" y="1340" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vY2Qs_7HokYuwpU8YPH9-5" value="&lt;u style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;ระดับการศึกษา&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vY2Qs_7HokYuwpU8YPH9-5" value="&lt;u style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;ระดับการศึกษา&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="259.8" y="1380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vY2Qs_7HokYuwpU8YPH9-6" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;วฒุิ/สาขาที่สำเร็จ&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vY2Qs_7HokYuwpU8YPH9-6" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;วฒุิ/สาขาที่สำเร็จ&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="379.8" y="1380" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yurMfc7qGKnsJLXri3Pg-3" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;ว/ด/ป ที่สำเร็จ&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yurMfc7qGKnsJLXri3Pg-3" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;ว/ด/ป ที่สำเร็จ&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="519.8" y="1380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yurMfc7qGKnsJLXri3Pg-4" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;ชื่อสถาบันการศึกษา&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yurMfc7qGKnsJLXri3Pg-4" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;ชื่อสถาบันการศึกษา&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="639.8" y="1380" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yurMfc7qGKnsJLXri3Pg-5" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;เกรด&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yurMfc7qGKnsJLXri3Pg-5" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;เกรด&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="789.8" y="1380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BBLT_xp9eLhZkiJhreWK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="yurMfc7qGKnsJLXri3Pg-6" target="xKTLk13hJ9xVyNKTabZv-1">
+        <mxCell id="BBLT_xp9eLhZkiJhreWK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="yurMfc7qGKnsJLXri3Pg-6" target="xKTLk13hJ9xVyNKTabZv-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="939.8" y="480" as="targetPoint" />
             <Array as="points">
@@ -1111,28 +1111,28 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yurMfc7qGKnsJLXri3Pg-6" value="&lt;i style=&quot;font-size: 18px;&quot;&gt;รหัสผู้สมัคร&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yurMfc7qGKnsJLXri3Pg-6" value="&lt;i style=&quot;font-size: 18px;&quot;&gt;รหัสผู้สมัคร&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="909.8" y="1380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yurMfc7qGKnsJLXri3Pg-7" value="&lt;span style=&quot;font-size: 18px; text-wrap-mode: nowrap;&quot;&gt;ข้อมูลด้านทักษะภาษา&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yurMfc7qGKnsJLXri3Pg-7" value="&lt;span style=&quot;font-size: 18px; text-wrap-mode: nowrap;&quot;&gt;ข้อมูลด้านทักษะภาษา&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="259.8" y="1540" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="yurMfc7qGKnsJLXri3Pg-8" value="&lt;u style=&quot;color: rgb(0, 0, 0); text-align: left; text-wrap-mode: nowrap; font-size: 18px; background-color: rgb(251, 251, 251);&quot;&gt;ภาษา&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yurMfc7qGKnsJLXri3Pg-8" value="&lt;u style=&quot;color: rgb(0, 0, 0); text-align: left; text-wrap-mode: nowrap; font-size: 18px; background-color: rgb(251, 251, 251);&quot;&gt;ภาษา&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="259.8" y="1590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BBLT_xp9eLhZkiJhreWK-2" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;อ่าน,&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BBLT_xp9eLhZkiJhreWK-2" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;อ่าน,&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="379.8" y="1590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BBLT_xp9eLhZkiJhreWK-3" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;ฟัง&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BBLT_xp9eLhZkiJhreWK-3" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;ฟัง&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="499.8" y="1590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BBLT_xp9eLhZkiJhreWK-4" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;พูด&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BBLT_xp9eLhZkiJhreWK-4" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;พูด&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="619.8" y="1590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BBLT_xp9eLhZkiJhreWK-5" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;เขียน&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BBLT_xp9eLhZkiJhreWK-5" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;เขียน&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="739.8" y="1590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BBLT_xp9eLhZkiJhreWK-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.625;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BBLT_xp9eLhZkiJhreWK-6" target="xKTLk13hJ9xVyNKTabZv-1">
+        <mxCell id="BBLT_xp9eLhZkiJhreWK-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.625;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="BBLT_xp9eLhZkiJhreWK-6" target="xKTLk13hJ9xVyNKTabZv-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="629.8" y="250" as="targetPoint" />
             <Array as="points">
@@ -1142,28 +1142,28 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BBLT_xp9eLhZkiJhreWK-6" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left; text-wrap-mode: nowrap; background-color: transparent; font-size: 18px;&quot;&gt;&lt;i&gt;รหัสผู้สมัคร&lt;/i&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BBLT_xp9eLhZkiJhreWK-6" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left; text-wrap-mode: nowrap; background-color: transparent; font-size: 18px;&quot;&gt;&lt;i&gt;รหัสผู้สมัคร&lt;/i&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="859.8" y="1590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VX22RSql1qoB8_lDFewL-1" value="&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;ใบประกาศนียบัตรวิชาชีพ&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="VX22RSql1qoB8_lDFewL-1" value="&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;ใบประกาศนียบัตรวิชาชีพ&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="254.8" y="1743" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VX22RSql1qoB8_lDFewL-2" value="&lt;u style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;เลขที่ใบประกาศนียบัตรวิชาชีพ&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VX22RSql1qoB8_lDFewL-2" value="&lt;u style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;เลขที่ใบประกาศนียบัตรวิชาชีพ&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="259.8" y="1783" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VX22RSql1qoB8_lDFewL-3" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;ออกเมื่อวันที่&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VX22RSql1qoB8_lDFewL-3" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;ออกเมื่อวันที่&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="939.8" y="1783" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VX22RSql1qoB8_lDFewL-4" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;ใบประกาศนียบัตรวิชาชีพ&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VX22RSql1qoB8_lDFewL-4" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;ใบประกาศนียบัตรวิชาชีพ&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="499.8" y="1783" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VX22RSql1qoB8_lDFewL-5" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;วันหมดอายุ&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VX22RSql1qoB8_lDFewL-5" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;วันหมดอายุ&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="699.8" y="1783" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VX22RSql1qoB8_lDFewL-6" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;ออกโดย&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VX22RSql1qoB8_lDFewL-6" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;ออกโดย&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="819.8" y="1783" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gSXFQxdQhz97O5WEgzJy-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.479;exitY=0.018;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ylUWbx4DbV2YpsCetm3L-2">
+        <mxCell id="gSXFQxdQhz97O5WEgzJy-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.479;exitY=0.018;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ylUWbx4DbV2YpsCetm3L-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="349.8" y="240" as="targetPoint" />
             <mxPoint x="1129.8" y="1780" as="sourcePoint" />
@@ -1173,34 +1173,34 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ylUWbx4DbV2YpsCetm3L-2" value="&lt;i style=&quot;text-align: left; text-wrap-mode: nowrap; font-size: 18px;&quot;&gt;รหัสผู้สมัคร&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ylUWbx4DbV2YpsCetm3L-2" value="&lt;i style=&quot;text-align: left; text-wrap-mode: nowrap; font-size: 18px;&quot;&gt;รหัสผู้สมัคร&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1059.8" y="1783" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IkqIrnkJiWH3f-jaZt5v-2" value="&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;ข้อมูลครอบครัว&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="IkqIrnkJiWH3f-jaZt5v-2" value="&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;ข้อมูลครอบครัว&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="249.8" y="1940" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IkqIrnkJiWH3f-jaZt5v-3" value="&lt;u style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;ชื่อ&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IkqIrnkJiWH3f-jaZt5v-3" value="&lt;u style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;ชื่อ&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="259.8" y="1980" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IkqIrnkJiWH3f-jaZt5v-4" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;บิดา/มารดา&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IkqIrnkJiWH3f-jaZt5v-4" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;บิดา/มารดา&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="379.8" y="1980" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IkqIrnkJiWH3f-jaZt5v-5" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;จำนวนพี่น้อง&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IkqIrnkJiWH3f-jaZt5v-5" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;จำนวนพี่น้อง&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="499.8" y="1980" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IkqIrnkJiWH3f-jaZt5v-6" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;ลำดับพี่น้อง&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IkqIrnkJiWH3f-jaZt5v-6" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;ลำดับพี่น้อง&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="609.8" y="1980" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IkqIrnkJiWH3f-jaZt5v-7" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;ที่อยู่&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IkqIrnkJiWH3f-jaZt5v-7" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;ที่อยู่&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="729.8" y="1980" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IkqIrnkJiWH3f-jaZt5v-9" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;อายุ&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IkqIrnkJiWH3f-jaZt5v-9" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;อายุ&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="849.8" y="1980" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IkqIrnkJiWH3f-jaZt5v-10" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;อาชีพ&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IkqIrnkJiWH3f-jaZt5v-10" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;อาชีพ&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="969.8" y="1980" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IkqIrnkJiWH3f-jaZt5v-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.369;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IkqIrnkJiWH3f-jaZt5v-11" target="xKTLk13hJ9xVyNKTabZv-1">
+        <mxCell id="IkqIrnkJiWH3f-jaZt5v-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.369;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="IkqIrnkJiWH3f-jaZt5v-11" target="xKTLk13hJ9xVyNKTabZv-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="299.8" y="250" as="targetPoint" />
             <Array as="points">
@@ -1211,28 +1211,28 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IkqIrnkJiWH3f-jaZt5v-11" value="&lt;i style=&quot;color: rgb(0, 0, 0); text-align: left; text-wrap-mode: nowrap; background-color: rgb(251, 251, 251); font-size: 18px;&quot;&gt;รหัสผู้สมัคร&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IkqIrnkJiWH3f-jaZt5v-11" value="&lt;i style=&quot;color: rgb(0, 0, 0); text-align: left; text-wrap-mode: nowrap; background-color: rgb(251, 251, 251); font-size: 18px;&quot;&gt;รหัสผู้สมัคร&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1089.8" y="1980" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="M8PWqJjOeolSk-LT4HRP-2" value="&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;ข้อมูลประวัติการทำงาน/ฝึกงาน&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="M8PWqJjOeolSk-LT4HRP-2" value="&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;ข้อมูลประวัติการทำงาน/ฝึกงาน&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="249.8" y="2140" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="M8PWqJjOeolSk-LT4HRP-3" value="&lt;u style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;ระยะเวลาปฎิบัติงาน&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="M8PWqJjOeolSk-LT4HRP-3" value="&lt;u style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;ระยะเวลาปฎิบัติงาน&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="259.8" y="2180" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="M8PWqJjOeolSk-LT4HRP-4" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;เงินเดือน&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="M8PWqJjOeolSk-LT4HRP-4" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;เงินเดือน&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="419.8" y="2180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="M8PWqJjOeolSk-LT4HRP-5" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;เหตุผลที่ออก&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="M8PWqJjOeolSk-LT4HRP-5" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;เหตุผลที่ออก&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="539.8" y="2180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="M8PWqJjOeolSk-LT4HRP-6" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;ตำแหน่ง/ลักษณะงานที่ทำ&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="M8PWqJjOeolSk-LT4HRP-6" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;ตำแหน่ง/ลักษณะงานที่ทำ&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="654.8" y="2180" width="205" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="M8PWqJjOeolSk-LT4HRP-7" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;สถานที่ทำงาน/ฝึกงาน&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="M8PWqJjOeolSk-LT4HRP-7" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;สถานที่ทำงาน/ฝึกงาน&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="859.8" y="2180" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="M8PWqJjOeolSk-LT4HRP-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="M8PWqJjOeolSk-LT4HRP-8" target="xKTLk13hJ9xVyNKTabZv-1">
+        <mxCell id="M8PWqJjOeolSk-LT4HRP-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="M8PWqJjOeolSk-LT4HRP-8" target="xKTLk13hJ9xVyNKTabZv-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="119.80000000000001" y="190" as="targetPoint" />
             <Array as="points">
@@ -1243,31 +1243,31 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="M8PWqJjOeolSk-LT4HRP-8" value="&lt;i style=&quot;text-align: left; text-wrap-mode: nowrap; font-size: 18px;&quot;&gt;รหัสผู้สมัคร&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="M8PWqJjOeolSk-LT4HRP-8" value="&lt;i style=&quot;text-align: left; text-wrap-mode: nowrap; font-size: 18px;&quot;&gt;รหัสผู้สมัคร&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1059.8" y="2180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SoYdJwBby8q4uD8s1DTF-2" value="&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;ข้อมูลการฝึกอบรม/พัฒนา&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="SoYdJwBby8q4uD8s1DTF-2" value="&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;ข้อมูลการฝึกอบรม/พัฒนา&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="249.8" y="2340" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HaiXCEjfCnI9IktnKDN0-1" value="&lt;u style=&quot;color: rgb(0, 0, 0); text-align: left; text-wrap-mode: nowrap; font-size: 18px; background-color: rgb(251, 251, 251);&quot;&gt;รหัสหลักสูตร&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HaiXCEjfCnI9IktnKDN0-1" value="&lt;u style=&quot;color: rgb(0, 0, 0); text-align: left; text-wrap-mode: nowrap; font-size: 18px; background-color: rgb(251, 251, 251);&quot;&gt;รหัสหลักสูตร&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="259.8" y="2380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HaiXCEjfCnI9IktnKDN0-2" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;จัดโดยสถาบัน&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HaiXCEjfCnI9IktnKDN0-2" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;จัดโดยสถาบัน&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="379.8" y="2380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HaiXCEjfCnI9IktnKDN0-3" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;ถึง&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HaiXCEjfCnI9IktnKDN0-3" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;ถึง&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="499.8" y="2380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HaiXCEjfCnI9IktnKDN0-4" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;จาก&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HaiXCEjfCnI9IktnKDN0-4" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;จาก&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="619.8" y="2380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HaiXCEjfCnI9IktnKDN0-5" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;จาก&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HaiXCEjfCnI9IktnKDN0-5" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;จาก&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="739.8" y="2380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HaiXCEjfCnI9IktnKDN0-6" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;หลักสูตร&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HaiXCEjfCnI9IktnKDN0-6" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;หลักสูตร&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="859.8" y="2380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HaiXCEjfCnI9IktnKDN0-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.124;entryY=1.019;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HaiXCEjfCnI9IktnKDN0-7" target="xKTLk13hJ9xVyNKTabZv-1">
+        <mxCell id="HaiXCEjfCnI9IktnKDN0-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.124;entryY=1.019;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="HaiXCEjfCnI9IktnKDN0-7" target="xKTLk13hJ9xVyNKTabZv-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="279.8" y="260" as="targetPoint" />
             <Array as="points">
@@ -1278,13 +1278,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HaiXCEjfCnI9IktnKDN0-7" value="&lt;i style=&quot;color: rgb(0, 0, 0); text-align: left; text-wrap-mode: nowrap; font-size: 18px; background-color: rgb(251, 251, 251);&quot;&gt;รหัสผู้สมัคร&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HaiXCEjfCnI9IktnKDN0-7" value="&lt;i style=&quot;color: rgb(0, 0, 0); text-align: left; text-wrap-mode: nowrap; font-size: 18px; background-color: rgb(251, 251, 251);&quot;&gt;รหัสผู้สมัคร&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="979.8" y="2380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qORBrAchNqJgXx72ddto-2" value="&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;การสมัคร&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="qORBrAchNqJgXx72ddto-2" value="&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;การสมัคร&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="254.8" y="2540" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qORBrAchNqJgXx72ddto-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="qORBrAchNqJgXx72ddto-3" target="xKTLk13hJ9xVyNKTabZv-1">
+        <mxCell id="qORBrAchNqJgXx72ddto-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="qORBrAchNqJgXx72ddto-3" target="xKTLk13hJ9xVyNKTabZv-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="229.8" y="210" as="targetPoint" />
             <Array as="points">
@@ -1293,25 +1293,25 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qORBrAchNqJgXx72ddto-3" value="&lt;i style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;รหัสผู้สมัคร&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qORBrAchNqJgXx72ddto-3" value="&lt;i style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;รหัสผู้สมัคร&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="259.8" y="2580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qORBrAchNqJgXx72ddto-4" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;เงินเดือนที่ต้องการ&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qORBrAchNqJgXx72ddto-4" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;เงินเดือนที่ต้องการ&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="379.8" y="2580" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qORBrAchNqJgXx72ddto-5" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;วันที่สมัครงาน,&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qORBrAchNqJgXx72ddto-5" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;วันที่สมัครงาน,&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="539.8" y="2580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qORBrAchNqJgXx72ddto-6" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;วันที่เริ่มงานได้&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qORBrAchNqJgXx72ddto-6" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;วันที่เริ่มงานได้&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="659.8" y="2580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="L1miICBESL3VOOs7LYOP-2" value="&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;การรับสมัคร&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="L1miICBESL3VOOs7LYOP-2" value="&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;การรับสมัคร&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="249.8" y="2740" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="L1miICBESL3VOOs7LYOP-3" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;จำนวน&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="L1miICBESL3VOOs7LYOP-3" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;จำนวน&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="269.8" y="2780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q4SSLR68pGPHZA_N0aH_-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L1miICBESL3VOOs7LYOP-4" target="WmGCK_uIjRtf5LLAD_Vx-3">
+        <mxCell id="Q4SSLR68pGPHZA_N0aH_-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="L1miICBESL3VOOs7LYOP-4" target="WmGCK_uIjRtf5LLAD_Vx-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="129.8" y="390" as="targetPoint" />
             <Array as="points">
@@ -1321,10 +1321,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="L1miICBESL3VOOs7LYOP-4" value="&lt;i style=&quot;font-size: 18px;&quot;&gt;รอบที่&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="L1miICBESL3VOOs7LYOP-4" value="&lt;i style=&quot;font-size: 18px;&quot;&gt;รอบที่&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="379.8" y="2780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q4SSLR68pGPHZA_N0aH_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L1miICBESL3VOOs7LYOP-5" target="xeULYE-8JItd_O-k4I-5-3">
+        <mxCell id="Q4SSLR68pGPHZA_N0aH_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="L1miICBESL3VOOs7LYOP-5" target="xeULYE-8JItd_O-k4I-5-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-20.19999999999999" y="740" as="targetPoint" />
             <Array as="points">
@@ -1336,10 +1336,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="L1miICBESL3VOOs7LYOP-5" value="&lt;i style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;รหัสสาขา&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="L1miICBESL3VOOs7LYOP-5" value="&lt;i style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;รหัสสาขา&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="499.8" y="2780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q4SSLR68pGPHZA_N0aH_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L1miICBESL3VOOs7LYOP-6" target="IgTgN1Jpc50lo-oXM-kn-3">
+        <mxCell id="Q4SSLR68pGPHZA_N0aH_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="L1miICBESL3VOOs7LYOP-6" target="IgTgN1Jpc50lo-oXM-kn-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="99.80000000000001" y="780" as="targetPoint" />
             <Array as="points">
@@ -1349,10 +1349,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="L1miICBESL3VOOs7LYOP-6" value="&lt;i style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;รหัสตำเเหน่ง&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="L1miICBESL3VOOs7LYOP-6" value="&lt;i style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;รหัสตำเเหน่ง&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="619.8" y="2780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q4SSLR68pGPHZA_N0aH_-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L1miICBESL3VOOs7LYOP-7">
+        <mxCell id="Q4SSLR68pGPHZA_N0aH_-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="L1miICBESL3VOOs7LYOP-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="259.8" y="210" as="targetPoint" />
             <Array as="points">
@@ -1363,13 +1363,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="L1miICBESL3VOOs7LYOP-7" value="&lt;i style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;รหัสผู้สมัคร&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="L1miICBESL3VOOs7LYOP-7" value="&lt;i style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;รหัสผู้สมัคร&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="739.8" y="2780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="riabUXVjF8jWPIlybg0m-2" value="ศักยาภาพด้านคอมพิวเตอร์" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="riabUXVjF8jWPIlybg0m-2" value="ศักยาภาพด้านคอมพิวเตอร์" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="249.8" y="2943" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="riabUXVjF8jWPIlybg0m-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="riabUXVjF8jWPIlybg0m-3" target="xKTLk13hJ9xVyNKTabZv-1">
+        <mxCell id="riabUXVjF8jWPIlybg0m-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="riabUXVjF8jWPIlybg0m-3" target="xKTLk13hJ9xVyNKTabZv-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="59.80000000000001" y="170" as="targetPoint" />
             <Array as="points">
@@ -1378,19 +1378,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="riabUXVjF8jWPIlybg0m-3" value="&lt;u style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left; text-wrap-mode: nowrap; background-color: transparent; font-size: 18px;&quot;&gt;&lt;i&gt;รหัสผู้สมัคร&lt;/i&gt;&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="riabUXVjF8jWPIlybg0m-3" value="&lt;u style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left; text-wrap-mode: nowrap; background-color: transparent; font-size: 18px;&quot;&gt;&lt;i&gt;รหัสผู้สมัคร&lt;/i&gt;&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="259.8" y="2980" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="riabUXVjF8jWPIlybg0m-4" value="&lt;u style=&quot;font-size: 18px; text-align: left;&quot;&gt;&lt;i&gt;รหัส&lt;/i&gt;&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="riabUXVjF8jWPIlybg0m-4" value="&lt;u style=&quot;font-size: 18px; text-align: left;&quot;&gt;&lt;i&gt;รหัส&lt;/i&gt;&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="379.8" y="2980" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="riabUXVjF8jWPIlybg0m-5" value="&lt;span style=&quot;color: rgb(0, 0, 0); text-align: left; font-size: 18px; background-color: rgb(251, 251, 251);&quot;&gt;Level&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="riabUXVjF8jWPIlybg0m-5" value="&lt;span style=&quot;color: rgb(0, 0, 0); text-align: left; font-size: 18px; background-color: rgb(251, 251, 251);&quot;&gt;Level&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="499.8" y="2980" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zUB1fqEXR_Slezg4W7zh-2" value="&lt;span style=&quot;text-align: left;&quot;&gt;พิมพ์ดีด&lt;/span&gt;" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="zUB1fqEXR_Slezg4W7zh-2" value="&lt;span style=&quot;text-align: left;&quot;&gt;พิมพ์ดีด&lt;/span&gt;" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="254.8" y="3150" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zUB1fqEXR_Slezg4W7zh-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zUB1fqEXR_Slezg4W7zh-3">
+        <mxCell id="zUB1fqEXR_Slezg4W7zh-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zUB1fqEXR_Slezg4W7zh-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="269.8" y="180" as="targetPoint" />
             <Array as="points">
@@ -1400,10 +1400,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zUB1fqEXR_Slezg4W7zh-3" value="&lt;u style=&quot;font-size: 18px;&quot;&gt;&lt;i&gt;รหัสผู้สมัคร&lt;/i&gt;&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zUB1fqEXR_Slezg4W7zh-3" value="&lt;u style=&quot;font-size: 18px;&quot;&gt;&lt;i&gt;รหัสผู้สมัคร&lt;/i&gt;&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="259.8" y="3180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zUB1fqEXR_Slezg4W7zh-4" value="&lt;span style=&quot;font-size: 18px; text-wrap-mode: nowrap; text-align: left;&quot;&gt;(&lt;/span&gt;&lt;u style=&quot;font-size: 18px; text-wrap-mode: nowrap; text-align: left;&quot;&gt;พิมพ์ดีด&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zUB1fqEXR_Slezg4W7zh-4" value="&lt;span style=&quot;font-size: 18px; text-wrap-mode: nowrap; text-align: left;&quot;&gt;(&lt;/span&gt;&lt;u style=&quot;font-size: 18px; text-wrap-mode: nowrap; text-align: left;&quot;&gt;พิมพ์ดีด&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="379.8" y="3180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
