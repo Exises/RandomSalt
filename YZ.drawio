@@ -1276,11 +1276,8 @@
         <mxCell id="HaiXCEjfCnI9IktnKDN0-4" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;จาก&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="619.8" y="2380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HaiXCEjfCnI9IktnKDN0-5" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;จาก&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="739.8" y="2380" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="HaiXCEjfCnI9IktnKDN0-6" value="&lt;span style=&quot;font-size: 18px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;หลักสูตร&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="859.8" y="2380" width="120" height="60" as="geometry" />
+          <mxGeometry x="739.8" y="2380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HaiXCEjfCnI9IktnKDN0-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.124;entryY=1.019;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="HaiXCEjfCnI9IktnKDN0-7" target="xKTLk13hJ9xVyNKTabZv-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1294,7 +1291,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HaiXCEjfCnI9IktnKDN0-7" value="&lt;i style=&quot;color: rgb(0, 0, 0); text-align: left; text-wrap-mode: nowrap; font-size: 18px; background-color: rgb(251, 251, 251);&quot;&gt;&lt;u&gt;รหัสผู้สมัคร&lt;/u&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="979.8" y="2380" width="120" height="60" as="geometry" />
+          <mxGeometry x="859.8" y="2380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qORBrAchNqJgXx72ddto-2" value="&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;การสมัคร&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="254.8" y="2540" width="90" height="40" as="geometry" />
